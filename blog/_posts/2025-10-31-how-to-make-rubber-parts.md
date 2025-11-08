@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "How Rubber Parts Are Made: From DIY to Industrial Scale"
-date: 2025-11-07
+date: 2025-10-31
 description: "Explore the full range of methods for making rubber parts, from at-home prototyping to industrial injection molding, and learn why Primo Rubber Co. is your trusted partner for custom rubber components."
-og_image: /assets/images/social-share.png
 ---
 
 Rubber parts are everywhere in modern life — from the simple gaskets in your plumbing to highly engineered seals in aerospace, automotive, and industrial equipment. How these parts are made varies greatly depending on the volume, complexity, material, and performance requirements. In this post, we’ll explore the full spectrum of rubber manufacturing methods, from home-scale DIY techniques to high-volume industrial production, and explain why choosing the right process is critical for quality and durability.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Common Materials Used in Rubber Molding"
-date: 2025-10-30
+date: 2025-10-24
 description: "A guide to the most popular rubber materials — including EPDM, Nitrile, Silicone, and Viton — and how Primo Rubber Co. works with a wide range of compounds to meet your needs."
 ---
 

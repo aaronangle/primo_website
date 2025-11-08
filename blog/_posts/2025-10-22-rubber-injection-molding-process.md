@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rubber Injection Molding Process"
-date: 2025-10-29
+date: 2025-10-22
 categories: rubber
 description: "A clear look at how rubber injection molding works, why it outperforms other molding methods. Primo Rubber Co. is a trusted partner for custom molded rubber parts."
 ---

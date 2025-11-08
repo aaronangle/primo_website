@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Partnering with a U.S.-Based Manufacturer Matters"
-date: 2025-11-03
+date: 2025-10-27
 description: "Discover the advantages of working with a U.S.-based rubber injection molding partner like Primo Rubber Co., from quality control to fast, reliable communication."
 og_image: /assets/images/social-share.png
 ---

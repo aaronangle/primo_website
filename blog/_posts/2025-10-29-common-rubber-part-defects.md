@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Common Rubber Part Defects and How to Avoid Them"
-date: 2025-11-06
+date: 2025-10-29
 description: "Learn about typical rubber part defects—like flash, voids, and sink marks—and how working with a skilled partner like Primo Rubber Co. can prevent them."
 og_image: /assets/images/social-share.png
 ---

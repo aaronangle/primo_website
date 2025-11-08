@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Design Rubber Parts for Injection Molding"
-date: 2025-10-31
+date: 2025-10-25
 description: "Practical tips for designing rubber parts optimized for injection molding, ensuring quality, durability, and manufacturability with Primo Rubber Co."
 og_image: /assets/images/social-share.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing the Primo Rubber Co Blog"
-date: 2025-10-28
+date: 2025-10-21
 categories: business
 description: Primo Rubber Co is a quality and reliable rubber manufacturer that has a wealth of experience creating custom rubber parts
 ---
