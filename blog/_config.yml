@@ -1,19 +1,50 @@
-name: Primo Rubber Co
-title: Primo Rubber Co
-baseurl: "/blog"
-url: "https://primorubberco.com"
-theme: minima
-logo: "/logo.png"
-favicon: "/favicon-32x32.png"
-# -----------------------------------------------------------------------------
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
-# -----------------------------------------------------------------------------
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Blog posts from Primo Rubber Co. Discussing rubber manufacturing and case studies.
-footer_text: >
-  <a href="/#contact" target="_blank">Contact Us</a>
-keywords: rubber molding, custom rubber parts, rubber injection molding, rubber manufacturing, american based rubber manufacturing, # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+title: Primo Rubber Co
+email: sales@primorubberco.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Primo Rubber Co specializes in injection molding custom rubber parts.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://primorubberco.com" # the base hostname & protocol for your site, e.g. http://example.com
+show_excerpts: true
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
