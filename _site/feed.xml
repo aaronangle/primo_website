@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-07T21:42:37-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Primo Rubber Co</title><subtitle>Primo Rubber Co specializes in injection molding custom rubber parts.</subtitle><entry><title type="html">Common Rubber Part Defects and How to Avoid Them</title><link href="http://localhost:4000/blog/2025/11/06/common-rubber-part-defects.html" rel="alternate" type="text/html" title="Common Rubber Part Defects and How to Avoid Them" /><published>2025-11-06T00:00:00-07:00</published><updated>2025-11-06T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/06/common-rubber-part-defects</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/06/common-rubber-part-defects.html"><![CDATA[<p>Even with the most advanced injection molding equipment, rubber parts can experience defects if design, material, or process considerations aren’t addressed. Understanding these common issues can help you create parts that are durable, precise, and reliable.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-07T22:01:53-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Primo Rubber Co</title><subtitle>Primo Rubber Co specializes in injection molding custom rubber parts.</subtitle><entry><title type="html">How Rubber Parts Are Made: From DIY to Industrial Scale</title><link href="http://localhost:4000/blog/2025/11/07/how-to-make-rubber-parts.html" rel="alternate" type="text/html" title="How Rubber Parts Are Made: From DIY to Industrial Scale" /><published>2025-11-07T00:00:00-07:00</published><updated>2025-11-07T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/07/how-to-make-rubber-parts</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/07/how-to-make-rubber-parts.html"><![CDATA[<p>Rubber parts are everywhere in modern life — from the simple gaskets in your plumbing to highly engineered seals in aerospace, automotive, and industrial equipment. How these parts are made varies greatly depending on the volume, complexity, material, and performance requirements. In this post, we’ll explore the full spectrum of rubber manufacturing methods, from home-scale DIY techniques to high-volume industrial production, and explain why choosing the right process is critical for quality and durability.</p>
+
+<h2 id="1-at-home-and-diy-methods"><strong>1. At-Home and DIY Methods</strong></h2>
+
+<p>For hobbyists, designers, or engineers creating prototypes, several techniques allow rubber parts to be made outside of an industrial environment. These methods are generally low-volume and flexible, but they often come with trade-offs in consistency, precision, and material options.</p>
+
+<h3 id="pouring-and-casting"><strong>Pouring and Casting</strong></h3>
+
+<p>One of the most accessible methods is pouring liquid silicone or urethane rubber into a mold. The molds themselves can be created from:</p>
+
+<ul>
+  <li>
+    <p>• 3D-printed PLA or resin parts</p>
+  </li>
+  <li>
+    <p>• Hand-sculpted clay or wax forms</p>
+  </li>
+  <li>
+    <p>• Silicone molds from a previous master part</p>
+  </li>
+</ul>
+
+<p>After the liquid rubber is poured into the mold, it is allowed to cure at room temperature or in a low-temperature oven, depending on the material.</p>
+
+<p><strong>Pros</strong> include low cost, the ability to quickly iterate designs, and minimal equipment requirements.</p>
+
+<p><strong>Cons</strong> include uneven curing, limited part size, and surface imperfections if the mold isn’t perfectly clean or vented.</p>
+
+<h3 id="compression-molding-at-small-scale"><strong>Compression Molding at Small Scale</strong></h3>
+
+<p>Even outside industrial settings, small manual presses can be used to compress pre-formed sheets or pellets of uncured rubber into molds. Heat and pressure trigger vulcanization (curing) of the rubber. This method is particularly useful for simple shapes or small runs where precision is less critical.</p>
+
+<p><strong>Challenges</strong> include uneven wall thickness and higher scrap rates if the press isn’t carefully monitored.</p>
+
+<h3 id="slush-molding"><strong>Slush Molding</strong></h3>
+
+<p>Slush molding allows for hollow or thin-walled parts by pouring liquid rubber into a mold, rotating it to coat the walls, and draining excess material before curing. This technique is common for small hollow prototypes or flexible sleeves. It requires some skill to achieve even wall thickness and consistent curing but can produce lightweight, flexible parts for testing or demonstration.</p>
+
+<h2 id="2-small-scale-or-prototype-production"><strong>2. Small-Scale or Prototype Production</strong></h2>
+
+<p>Once you move beyond simple home experimentation, small-scale production methods offer better consistency, repeatability, and material options. These processes are often used for prototyping, small-batch runs, or specialty applications.</p>
+
+<h3 id="compression-molding"><strong>Compression Molding</strong></h3>
+
+<p>Compression molding is widely used in small-scale industrial applications. Pre-measured “preforms” of uncured rubber are placed into heated molds. When the mold closes and pressure is applied, the rubber flows to fill the cavity and cures. It is a relatively simple method that works well for geometrically simple parts, gaskets, or small mechanical components.</p>
+
+<p><strong>Pros:</strong> Good for medium-volume production, relatively low tooling cost.</p>
+
+<p><strong>Cons:</strong> Longer cycle times than injection molding, less suitable for intricate designs, potential for flash if mold alignment isn’t perfect.</p>
+
+<h3 id="transfer-molding"><strong>Transfer Molding</strong></h3>
+
+<p>Transfer molding improves upon compression molding by forcing rubber from a chamber into mold cavities through channels called runners. This allows for more complex shapes and reduces the likelihood of trapped air. Transfer molding can produce multi-cavity molds with better control over material flow.</p>
+
+<p><strong>Pros:</strong> More precise than compression molding, can handle moderately complex shapes.</p>
+
+<p><strong>Cons:</strong> Still slower than injection molding, slightly higher tooling complexity.</p>
+
+<h3 id="vacuum-casting"><strong>Vacuum Casting</strong></h3>
+
+<p>For silicone and other liquid rubbers, vacuum casting is used to remove air bubbles and ensure a smooth surface finish. The uncured material is placed under vacuum to degas before being poured into a mold. This process is ideal for functional prototypes where mechanical performance and surface quality are important.</p>
+
+<h2 id="3-industrial-scale-production"><strong>3. Industrial-Scale Production</strong></h2>
+
+<p>For high-volume, precision, and performance-critical applications, industrial processes dominate. These methods are used by companies producing millions of parts per year.</p>
+
+<h3 id="injection-molding"><strong>Injection Molding</strong></h3>
+
+<p>Rubber injection molding is the most common method for large-scale production of complex parts. Uncured rubber is heated to a workable viscosity and injected into a closed mold under high pressure. The rubber cures inside the mold, and the part is ejected once fully vulcanized.</p>
+
+<p><strong>Advantages:</strong></p>
+
+<ul>
+  <li><strong>High precision and repeatability</strong> – critical for tight tolerances or multi-cavity molds.</li>
+  <li><strong>Fast cycle times</strong> – ideal for medium to high-volume production.</li>
+  <li><strong>Material efficiency</strong> – minimal scrap compared to compression molding.</li>
+  <li><strong>Complex geometries</strong> – can mold intricate shapes, thin walls, and multiple features in one shot.</li>
+</ul>
+
+<p><strong>Considerations:</strong> Mold design is critical, including gate locations, venting, and draft angles. Material selection affects shrinkage, hardness, and final properties.</p>
+
+<h3 id="extrusion"><strong>Extrusion</strong></h3>
+
+<p>Extrusion is used for continuous profiles such as tubing, hoses, or seals. Rubber is forced through a shaped die and then vulcanized in a continuous curing process. Extrusion excels at creating long, uniform parts, and wall thickness and dimensional control are key for performance.</p>
+
+<h3 id="calendaring"><strong>Calendaring</strong></h3>
+
+<p>Calendaring produces flat sheets of rubber with consistent thickness and surface finish. These sheets are often die-cut or molded into final parts. While less flexible for complex shapes, calendaring is highly efficient for producing sheets used in seals, gaskets, or laminated assemblies.</p>
+
+<h3 id="automated-post-processing"><strong>Automated Post-Processing</strong></h3>
+
+<p>Modern factories often integrate trimming, inspection, and testing into production lines. Automated processes ensure that each part meets strict tolerances, dimensional stability, and functional specifications.</p>
+
+<h2 id="material-considerations-across-all-methods"><strong>Material Considerations Across All Methods</strong></h2>
+
+<p>Whether at home or in an industrial facility, material choice affects how a part is made:</p>
+
+<ul>
+  <li><strong>Silicone:</strong> Flexible, temperature-resistant, ideal for prototypes and FDA-compliant parts.</li>
+  <li><strong>Nitrile/Buna-N:</strong> Oil-resistant, common for seals in automotive and industrial applications.</li>
+  <li><strong>EPDM:</strong> Excellent weather and ozone resistance, used in outdoor applications.</li>
+  <li><strong>Viton (FKM):</strong> High-temperature and chemical resistance, suitable for aerospace or chemical industries.</li>
+</ul>
+
+<p>The material determines curing requirements, viscosity, flow behavior, and post-processing needs. Experienced manufacturers can guide clients to the right material for their application.</p>
+
+<h2 id="why-primo-rubber-co-is-your-ideal-partner"><strong>Why Primo Rubber Co. is Your Ideal Partner</strong></h2>
+
+<p>At <strong>Primo Rubber Co.</strong>, we specialize in <strong>high-quality industrial rubber injection molding</strong>, but our expertise spans the full spectrum of rubber part production. From small prototypes and experimental runs to large-volume production, we help clients:</p>
+
+<ul>
+  <li>
+    <p>• Select the right material for performance and durability</p>
+  </li>
+  <li>
+    <p>• Optimize designs for manufacturability and cost</p>
+  </li>
+  <li>
+    <p>• Ensure consistent quality and tight tolerances</p>
+  </li>
+</ul>
+
+<p>With our U.S.-based manufacturing and decades of experience, <strong>Primo Rubber Co.</strong> delivers precision, reliability, and partnership at every stage — from concept to finished part. Whether you’re exploring DIY prototyping or large-scale production, we help turn ideas into durable, functional, custom rubber components.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Explore the full range of methods for making rubber parts, from at-home prototyping to industrial injection molding, and learn why Primo Rubber Co. is your trusted partner for custom rubber components.]]></summary></entry><entry><title type="html">Common Rubber Part Defects and How to Avoid Them</title><link href="http://localhost:4000/blog/2025/11/06/common-rubber-part-defects-copy.html" rel="alternate" type="text/html" title="Common Rubber Part Defects and How to Avoid Them" /><published>2025-11-06T00:00:00-07:00</published><updated>2025-11-06T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/06/common-rubber-part-defects%20copy</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/06/common-rubber-part-defects-copy.html"><![CDATA[<p>Even with the most advanced injection molding equipment, rubber parts can experience defects if design, material, or process considerations aren’t addressed. Understanding these common issues can help you create parts that are durable, precise, and reliable.</p>
 
 <h3 id="1-flash"><strong>1. Flash</strong></h3>
 
