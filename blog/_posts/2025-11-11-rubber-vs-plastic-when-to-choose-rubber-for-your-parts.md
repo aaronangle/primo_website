@@ -2,7 +2,7 @@
 layout: post
 title: "Rubber vs. Plastic: When to Choose Rubber for Your Parts"
 description: "Explore the differences between rubber and plastic, and learn when rubber is the better choice for your custom molded components."
-author: "Primo Rubber Co."
+date: 2025-11-11
 ---
 
 When designing a new product, one of the first decisions engineers face is choosing between **rubber and plastic**. Both materials can be molded into complex shapes, both are cost-effective, and both can be tailored to a wide range of applications.
