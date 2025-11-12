@@ -33,4 +33,4 @@ Tooling materials and finishes have a direct impact on part quality and producti
 
 ## Partnering With Experts for Reliable Tooling
 
-At **Primo Rubber Co.**, we know that the mold is the heart of the process. Our team collaborates closely with customers from the design stage to ensure every detail — from gate placement to venting — is optimized for performance, consistency, and cost-efficiency. Whether you need precision seals, vibration isolators, or custom gaskets, we make sure our tooling delivers dependable quality with every shot.
+At **Primo Rubber Co.**, we know that the mold is the heart of the process. Our team collaborates closely with customers from the design stage to ensure every detail — from gate placement to venting — is optimized for performance, consistency, and cost-efficiency. Whether you need precision seals, vibration isolators, or custom gaskets, we make sure our tooling delivers dependable quality with every shot. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

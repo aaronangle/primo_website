@@ -59,4 +59,4 @@ Designing automotive rubber parts takes experience — not only in material scie
 
 ## Built for the Road Ahead
 
-At **Primo Rubber Co.**, we specialize in **custom rubber injection molding** for automotive and industrial applications. Our U.S.-based team works with a wide range of materials and can help you design and produce durable, high-performance parts that meet the demanding standards of the automotive industry.
+At **Primo Rubber Co.**, we specialize in **custom rubber injection molding** for automotive and industrial applications. Our U.S.-based team works with a wide range of materials and can help you design and produce durable, high-performance parts that meet the demanding standards of the automotive industry. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

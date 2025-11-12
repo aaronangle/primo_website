@@ -86,4 +86,4 @@ Whether you’re replacing a rigid plastic part that’s been failing or develop
 
 Choosing the right material is one of the most important design decisions you’ll make. With **Primo Rubber Co.**, you’re not just getting parts — you’re getting decades of experience, technical expertise, and a partner committed to your success.
 
-**Contact Primo Rubber Co. today** to discuss your project and find out how the right rubber solution can make your parts stronger, longer-lasting, and more reliable.
+[**Contact Primo Rubber Co. today**](/#Contact) to discuss your project and find out how the right rubber solution can make your parts stronger, longer-lasting, and more reliable.

@@ -111,4 +111,4 @@ At **Primo Rubber Co.**, we specialize in **high-quality industrial rubber injec
 
 - • Ensure consistent quality and tight tolerances
 
-With our U.S.-based manufacturing and decades of experience, **Primo Rubber Co.** delivers precision, reliability, and partnership at every stage — from concept to finished part. Whether you’re exploring DIY prototyping or large-scale production, we help turn ideas into durable, functional, custom rubber components.
+With our U.S.-based manufacturing and decades of experience, **Primo Rubber Co.** delivers precision, reliability, and partnership at every stage — from concept to finished part. Whether you’re exploring DIY prototyping or large-scale production, we help turn ideas into durable, functional, custom rubber components. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

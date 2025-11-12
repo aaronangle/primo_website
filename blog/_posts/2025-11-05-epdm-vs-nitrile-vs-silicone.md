@@ -64,4 +64,4 @@ Each material has trade-offs, and the best choice often depends on balancing per
 
 ## Primo Rubber Co. Can Help You Choose the Perfect Material
 
-At **Primo Rubber Co.**, we work with a wide variety of rubber compounds — including EPDM, Nitrile, Silicone, and more — to ensure every part meets your performance requirements. Our experience in material selection and molding allows us to guide customers toward the best rubber for their unique application, from prototypes to full-scale production.
+At **Primo Rubber Co.**, we work with a wide variety of rubber compounds — including EPDM, Nitrile, Silicone, and more — to ensure every part meets your performance requirements. Our experience in material selection and molding allows us to guide customers toward the best rubber for their unique application, from prototypes to full-scale production. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

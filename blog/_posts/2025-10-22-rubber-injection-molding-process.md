@@ -42,4 +42,4 @@ Because the material is pre-heated and injected, it fills the mold more evenlyâ€
 
 At **Primo Rubber Co.**, we combine modern injection molding technology with years of experience to deliver reliable, high-quality custom rubber parts. Whether you need a simple gasket or a complex molded component, our team focuses on precision, durability, and long-term performance. As a U.S.-based manufacturer, we provide dependable communication, consistent quality, and trustworthy deliveryâ€”making us a strong partner for companies that rely on critical rubber components.
 
-If you're exploring the advantages of injection molding for your next project, Primo Rubber Co. is here to help turn your ideas into durable, production-ready parts.
+If you're exploring the advantages of injection molding for your next project, Primo Rubber Co. is here to help turn your ideas into durable, production-ready parts. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

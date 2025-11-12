@@ -54,4 +54,4 @@ To ensure your rubber parts last:
 
 ## Built to Last with Primo Rubber Co.
 
-At **Primo Rubber Co.**, we specialize in creating rubber components that stand up to challenging conditions — from high-temperature seals to outdoor gaskets and chemical-resistant parts. Our team helps you select the right compound for your specific environment, ensuring long-lasting performance and dependable quality in every part.
+At **Primo Rubber Co.**, we specialize in creating rubber components that stand up to challenging conditions — from high-temperature seals to outdoor gaskets and chemical-resistant parts. Our team helps you select the right compound for your specific environment, ensuring long-lasting performance and dependable quality in every part. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

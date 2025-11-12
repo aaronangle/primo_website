@@ -38,4 +38,4 @@ Rubber parts often experience slight dimensional changes after molding and curin
 
 At **Primo Rubber Co.**, we combine decades of experience with advanced injection molding techniques to help you turn designs into **durable, high-quality rubber components**. Our team can review your CAD files, suggest design improvements, and recommend materials that optimize manufacturability and performance.
 
-Whether it’s seals, gaskets, or custom molded components, **Primo Rubber Co.** is your trusted partner in creating rubber parts that meet your exact specifications — the first time and every time.
+Whether it’s seals, gaskets, or custom molded components, **Primo Rubber Co.** is your trusted partner in creating rubber parts that meet your exact specifications — the first time and every time. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

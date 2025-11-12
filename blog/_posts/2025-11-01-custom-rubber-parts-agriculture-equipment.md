@@ -58,4 +58,4 @@ The best results come from working with a manufacturer that understands both **r
 
 ## Built to Perform in the Field
 
-At **Primo Rubber Co.**, we produce **custom-molded rubber parts** designed to handle the rough conditions of agricultural work. Whether you need weatherproof seals, oil-resistant hoses, or vibration isolators, our U.S.-based team can help you choose the right material and deliver durable, high-quality parts built to perform season after season.
+At **Primo Rubber Co.**, we produce **custom-molded rubber parts** designed to handle the rough conditions of agricultural work. Whether you need weatherproof seals, oil-resistant hoses, or vibration isolators, our U.S.-based team can help you choose the right material and deliver durable, high-quality parts built to perform season after season. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

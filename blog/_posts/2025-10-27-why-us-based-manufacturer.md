@@ -26,4 +26,4 @@ Being local makes collaboration easier. Whether you need help selecting the righ
 
 ### **Partner with Primo Rubber Co.**
 
-Choosing a U.S.-based manufacturer like **Primo Rubber Co.** means you get **reliable communication, consistent quality, and a true partner in custom rubber parts manufacturing**. From prototype to full-scale production, we’re here to deliver the precision and service your business deserves.
+Choosing a U.S.-based manufacturer like **Primo Rubber Co.** means you get **reliable communication, consistent quality, and a true partner in custom rubber parts manufacturing**. From prototype to full-scale production, we’re here to deliver the precision and service your business deserves. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

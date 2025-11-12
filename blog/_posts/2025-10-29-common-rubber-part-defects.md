@@ -40,6 +40,4 @@ Even with the most advanced injection molding equipment, rubber parts can experi
 
 ### **Partner with Primo Rubber Co.**
 
-At **Primo Rubber Co.**, our experience in **rubber injection molding** allows us to foresee potential defects before production begins. From initial design consultation to final inspection, we provide the expertise, tooling knowledge, and quality control needed to deliver **custom rubber parts that are consistent, durable, and ready for your application**.
-
-Partner with us to avoid costly defects and ensure every part meets your exact requirements.
+At **Primo Rubber Co.**, our experience in **rubber injection molding** allows us to foresee potential defects before production begins. From initial design consultation to final inspection, we provide the expertise, tooling knowledge, and quality control needed to deliver **custom rubber parts that are consistent, durable, and ready for your application**. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

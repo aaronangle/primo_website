@@ -13,4 +13,4 @@ We specialize in producing **high-quality custom rubber components** for industr
 What truly sets Primo Rubber Co. apart is our approach to partnership. We don’t just make parts—we collaborate with our clients to solve problems, refine designs, and ensure that every project runs smoothly from concept to production. As a **U.S. based manufacturer**, we offer responsive service, open communication, and the confidence that your parts are made right here at home.
 
 Whether you need to optimize an existing part or bring a new idea to life, **Primo Rubber Co.** is ready to help you build something that lasts.  
-Let’s manufacture quality—together. [Contact Us](/#Contact) to get a quote for your rubber parts.
+Let’s manufacture quality—together. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

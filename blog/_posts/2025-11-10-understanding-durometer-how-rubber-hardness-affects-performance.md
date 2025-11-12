@@ -71,4 +71,4 @@ At **Primo Rubber Co.**, we help customers **optimize durometer selection** for 
 
 If you’re designing a new product or troubleshooting an existing one, we can help you choose and mold the right rubber compound for your needs.
 
-**Contact Primo Rubber Co. today** to learn more about our custom rubber molding capabilities and material options.
+[**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

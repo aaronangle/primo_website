@@ -96,4 +96,4 @@ Testing in real-world conditions is always recommended before full production.
 
 ## Trusted Rubber Solutions from Primo Rubber Co.
 
-At **Primo Rubber Co.**, we specialize in **custom rubber parts and seals** that stand up to the toughest environments. Whether your application demands cost-effective Nitrile or high-performance Viton, our team helps you select and mold the right compound for long-lasting, oil-resistant performance. Partner with us to produce quality rubber components that you can rely on.
+At **Primo Rubber Co.**, we specialize in **custom rubber parts and seals** that stand up to the toughest environments. Whether your application demands cost-effective Nitrile or high-performance Viton, our team helps you select and mold the right compound for long-lasting, oil-resistant performance. Partner with us to produce quality rubber components that you can rely on. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

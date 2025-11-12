@@ -65,4 +65,4 @@ At **Primo Rubber Co.**, we specialize in **custom rubber injection molding** an
 
 Whether you need oil-resistant nitrile gaskets, high-temp silicone seals, or complex molded geometries, we can help you engineer parts that meet your exact requirements and last in the field.
 
-**Primo Rubber Co.** — your trusted partner for durable, high-performance industrial rubber components.
+**Primo Rubber Co.** — your trusted partner for durable, high-performance industrial rubber components. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.

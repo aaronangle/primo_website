@@ -63,4 +63,4 @@ Natural rubber provides excellent tensile strength, tear resistance, and elastic
 
 At **Primo Rubber Co.**, we work with a wide range of rubber compounds to meet the needs of diverse industries. Whether your part requires oil resistance, heat tolerance, flexibility, or FDA compliance, our team can recommend and mold the right material for your application. With years of experience in **rubber injection molding**, we ensure that every project combines the right material with precision manufacturing for the best possible results.
 
-From EPDM to Viton — **Primo Rubber Co.** is your trusted partner for custom molded rubber parts.
+From EPDM to Viton — **Primo Rubber Co.** is your trusted partner for custom molded rubber parts. [**Contact Primo Rubber Co. today**](/#Contact) to learn more about our custom rubber molding capabilities and material options.
