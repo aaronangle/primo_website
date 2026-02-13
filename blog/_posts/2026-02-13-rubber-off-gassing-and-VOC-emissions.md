@@ -14,13 +14,7 @@ This guide from **Primo Rubber Co.** focuses specifically on how different rubbe
 
 ## What Causes Rubber to Off-Gas?
 
-Emission levels depend on:
-
-- Polymer chemistry
-- Cure system (sulfur vs peroxide)
-- Oil content
-- Post-cure process
-- Service temperature
+Rubber off-gassing is influenced by several factors, including the polymer chemistry, the type of cure system used (sulfur versus peroxide), the oil content, the post-cure process, and the service temperature. These variables determine the level and rate of volatile emissions from the material.
 
 ## VOC Comparison by Rubber Type
 
