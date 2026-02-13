@@ -1,4 +1,1376 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-13T18:08:02-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Primo Rubber Co</title><subtitle>Primo Rubber Co specializes in injection molding custom rubber parts.</subtitle><entry><title type="html">How Temperature Cycling Affects Rubber Part Lifespan</title><link href="http://localhost:4000/blog/2025/11/13/how-temperature-cycling-affects-rubber-part-lifespan.html" rel="alternate" type="text/html" title="How Temperature Cycling Affects Rubber Part Lifespan" /><published>2025-11-13T00:00:00-07:00</published><updated>2025-11-13T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/13/how-temperature-cycling-affects-rubber-part-lifespan</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/13/how-temperature-cycling-affects-rubber-part-lifespan.html"><![CDATA[<p>Rubber components used in industrial, automotive, and outdoor environments are constantly exposed to temperature swings — sometimes from sub-zero mornings to scorching operating temperatures within minutes. These repeated changes, known as <strong>temperature cycling</strong>, cause rubber to expand, contract, harden, soften, and eventually break down. If your rubber parts are failing earlier than expected, temperature cycling is often a major contributor.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-02-13T15:00:31-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Primo Rubber Co</title><subtitle>Primo Rubber Co specializes in injection molding custom rubber parts.</subtitle><entry><title type="html">Rubber Off-Gassing and VOC Emissions by Material Type: Choosing the Right Elastomer</title><link href="http://localhost:4000/blog/2026/02/12/rubber-off-gassing-and-VOC-emissions.html" rel="alternate" type="text/html" title="Rubber Off-Gassing and VOC Emissions by Material Type: Choosing the Right Elastomer" /><published>2026-02-12T00:00:00-07:00</published><updated>2026-02-12T00:00:00-07:00</updated><id>http://localhost:4000/blog/2026/02/12/rubber-off-gassing-and-VOC-emissions</id><content type="html" xml:base="http://localhost:4000/blog/2026/02/12/rubber-off-gassing-and-VOC-emissions.html"><![CDATA[<p>In sensitive applications—automotive interiors, medical devices, aerospace cabins, electronics enclosures, and vacuum systems—<strong>rubber off-gassing and VOC emissions</strong> can be just as important as tensile strength or compression set.</p>
+
+<p>While all elastomers can release small amounts of volatile compounds, <strong>emission behavior varies significantly by rubber type and formulation</strong>. Choosing the wrong material can lead to odor complaints, fogging on optical surfaces, sensor interference, or failure to meet regulatory standards.</p>
+
+<p>This guide from <strong>Primo Rubber Co.</strong> focuses specifically on how different rubber families compare when it comes to VOC release and long-term off-gassing.</p>
+
+<h2 id="what-causes-rubber-to-off-gas">What Causes Rubber to Off-Gas?</h2>
+
+<p>Emission levels depend on:</p>
+
+<ul>
+  <li>Polymer chemistry</li>
+  <li>Cure system (sulfur vs peroxide)</li>
+  <li>Oil content</li>
+  <li>Post-cure process</li>
+  <li>Service temperature</li>
+</ul>
+
+<h2 id="voc-comparison-by-rubber-type">VOC Comparison by Rubber Type</h2>
+
+<h3 id="silicone-vmq--lsr">Silicone (VMQ / LSR)</h3>
+
+<p><strong>General emission profile:</strong> Low (when properly post-cured)</p>
+
+<p>Silicone rubber is often chosen for low-VOC applications because it contains no plasticizers, has inherently stable polymer chains, performs well at high temperatures, and can be post-cured to remove residual volatiles. However, without proper post-curing, silicone can release residual siloxanes and cure byproducts</p>
+
+<h3 id="epdm-ethylene-propylene-diene-monomer">EPDM (Ethylene Propylene Diene Monomer)</h3>
+
+<p><strong>General emission profile:</strong> Low to Moderate (formulation dependent)</p>
+
+<p>EPDM is widely used in automotive interiors and outdoor seals because it offers good chemical stability, does not require heavy plasticization, and provides strong resistance to ozone and UV exposure. However, its VOC performance depends heavily on factors such as the level of oil extension, the cure chemistry used, and the specific additive package included in the formulation. Low-VOC EPDM compounds are commonly available for interior automotive use.</p>
+
+<h3 id="nbr-nitrile-rubber">NBR (Nitrile Rubber)</h3>
+
+<p><strong>General emission profile:</strong> Moderate to High</p>
+
+<p>NBR often contains processing oils and plasticizers to improve flexibility and workability, as well as sulfur cure residues that remain from the vulcanization process. Because nitrile is commonly oil-extended, it may produce noticeable odor or volatile emissions—especially in confined spaces. Hydrogenated NBR (HNBR) performs somewhat better but can still emit depending on formulation. Not typically ideal for odor-sensitive interior environments without special formulation.</p>
+
+<h3 id="fkm-fluoroelastomer">FKM (Fluoroelastomer)</h3>
+
+<p><strong>General emission profile:</strong> Very Low (after proper cure)</p>
+
+<p>FKM materials are highly stable and chemically resistant. They are typically more expensive but offer excellent emission control. They have low volatile content, resist high temperatures and perform well in vacuum environments</p>
+
+<h3 id="butyl-rubber-iir">Butyl Rubber (IIR)</h3>
+
+<p><strong>General emission profile:</strong> Very Low Permeability, Low to Moderate VOC (formulation dependent)</p>
+
+<p>Butyl rubber is unique because it has extremely low gas permeability, excellent sealing capability, and strong resistance to air diffusion, making it especially well suited for airtight and pressure-retaining applications. This makes it ideal for applications where <strong>gas containment is critical</strong>. However, butyl can contain processing oils and additives that contribute to VOC emissions if not properly formulated. When compounded for low-VOC performance, butyl rubber can be a strong candidate for sealed-system applications. The advantages of this material include low gas transmission, good chemical resistance, and strong damping properties, making it suitable for applications requiring airtightness, durability, and vibration absorption.</p>
+
+<h2 id="natural-rubber-nr">Natural Rubber (NR)</h2>
+
+<p><strong>General emission profile:</strong> Moderate to High</p>
+
+<p>Natural rubber can produce a noticeable odor, organic volatiles from natural proteins, and oxidative byproducts over time. It also requires stabilizers to prevent degradation, which may contribute to emissions.</p>
+
+<h2 id="quick-comparison">Quick Comparison</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Rubber Type</th>
+      <th>Relative VOC Level</th>
+      <th>Best Suited For</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Silicone (post-cured)</td>
+      <td>Low</td>
+      <td>Medical devices, electronics, optical assemblies, automotive interiors, sealed enclosures</td>
+    </tr>
+    <tr>
+      <td>FKM</td>
+      <td>Very Low</td>
+      <td>Aerospace systems, vacuum sealing, high-temperature electronics, chemical processing</td>
+    </tr>
+    <tr>
+      <td>EPDM (low-VOC grade)</td>
+      <td>Low–Moderate</td>
+      <td>Automotive weatherstripping, HVAC seals, outdoor enclosures, water-contact systems</td>
+    </tr>
+    <tr>
+      <td>Butyl (IIR)</td>
+      <td>Low–Moderate</td>
+      <td>Gas barrier components, pharmaceutical stoppers, vacuum seals, air-retention systems</td>
+    </tr>
+    <tr>
+      <td>HNBR</td>
+      <td>Moderate</td>
+      <td>Oil-resistant industrial systems with moderate emission sensitivity</td>
+    </tr>
+    <tr>
+      <td>NBR</td>
+      <td>Moderate–High</td>
+      <td>Industrial equipment, oil and fuel systems (non-sensitive environments)</td>
+    </tr>
+    <tr>
+      <td>Natural Rubber</td>
+      <td>Moderate–High</td>
+      <td>Mechanical components and abrasion-heavy environments where emissions are not critical</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="when-should-you-worry-about-off-gassing">When Should You Worry About Off-Gassing?</h2>
+
+<p>You should evaluate emissions if your rubber part will be used in:</p>
+
+<ul>
+  <li>-Enclosed cabins</li>
+  <li>-Medical environments</li>
+  <li>-Optical or lens assemblies</li>
+  <li>-Sensor housings</li>
+  <li>-Vacuum systems</li>
+  <li>-Battery enclosures</li>
+  <li>-Automotive interiors</li>
+  <li>-Semiconductor equipment</li>
+</ul>
+
+<h2 id="need-a-low-emission-rubber-compound">Need a Low-Emission Rubber Compound?</h2>
+
+<p>Primo Rubber Co. specializes in injection molding custom rubber components. <a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your project and find the ideal material, design, and tooling solution for your rubber parts.</p>]]></content><author><name>Primo Rubber Co.</name></author><category term="blog" /><summary type="html"><![CDATA[A material-focused guide from Primo Rubber Co. comparing VOC emissions and off-gassing characteristics of silicone, EPDM, NBR, FKM, butyl rubber, and other elastomers for sensitive applications.]]></summary></entry><entry><title type="html">How Rubber Tooling Works: An Engineer’s Guide to Molds, Inserts, Cavities, and Parting Lines</title><link href="http://localhost:4000/blog/2025/11/29/how-rubber-tooling-works.html" rel="alternate" type="text/html" title="How Rubber Tooling Works: An Engineer’s Guide to Molds, Inserts, Cavities, and Parting Lines" /><published>2025-11-29T00:00:00-07:00</published><updated>2025-11-29T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/29/how-rubber-tooling-works</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/29/how-rubber-tooling-works.html"><![CDATA[<p>When designing a new rubber part, one of the biggest sources of confusion for engineers is <strong>tooling</strong>—how molds are made, how cavities are shaped, and what limitations are imposed by rubber molding processes. Good tooling design impacts everything from part quality and flash control to cycle time and long-term mold durability.</p>
+
+<p>In this post, <strong>Primo Rubber Co.</strong> breaks down the fundamentals of rubber tooling so you can design manufacturable parts, reduce iteration cycles, and avoid costly surprises when quoting your next project.</p>
+
+<hr />
+
+<h2 id="what-is-rubber-tooling">What Is Rubber Tooling?</h2>
+
+<p>Rubber tooling refers to the <strong>metal molds</strong> used to shape elastomers during molding processes such as:</p>
+
+<ul>
+  <li>Compression molding</li>
+  <li>Transfer molding</li>
+  <li>Injection rubber molding</li>
+</ul>
+
+<p>The tool defines the part’s geometry, tolerances, surface finish, and gating system, and must handle high clamping pressures, heat, and repeated cycles over thousands or millions of shots.</p>
+
+<hr />
+
+<h2 id="key-components-of-a-rubber-mold">Key Components of a Rubber Mold</h2>
+
+<h3 id="1-cavities"><strong>1. Cavities</strong></h3>
+
+<p>The cavity is the negative shape of the final part. A mold can contain:</p>
+
+<ul>
+  <li><strong>Single cavity</strong> (for large or high-precision parts)</li>
+  <li><strong>Multi-cavity</strong> (for high-volume production)</li>
+</ul>
+
+<p>Cavity design impacts:</p>
+
+<ul>
+  <li>Flash location</li>
+  <li>Parting line shape</li>
+  <li>Mold temperature uniformity</li>
+  <li>Cycle time</li>
+</ul>
+
+<hr />
+
+<h3 id="2-core-pins-and-inserts"><strong>2. Core Pins and Inserts</strong></h3>
+
+<p>Core pins create holes, voids, or internal features. They can be:</p>
+
+<ul>
+  <li>Fixed</li>
+  <li>Removable</li>
+  <li>Floating</li>
+  <li>Replaceable inserts</li>
+</ul>
+
+<p>In rubber molds, pins must account for thermal expansion, pressure, and elastomer flow characteristics.</p>
+
+<hr />
+
+<h3 id="3-parting-lines"><strong>3. Parting Lines</strong></h3>
+
+<p>Parting lines are where mold halves meet. They determine:</p>
+
+<ul>
+  <li>Flash placement</li>
+  <li>Ease of demolding</li>
+  <li>Tool complexity</li>
+</ul>
+
+<p>Good part designs place parting lines in low-visibility, low-tolerance areas.</p>
+
+<hr />
+
+<h3 id="4-sprues-gates-and-runners"><strong>4. Sprues, Gates, and Runners</strong></h3>
+
+<p>The <strong>gating system</strong> controls how rubber enters the cavities:</p>
+
+<ul>
+  <li><strong>Compression molds</strong>: rubber is placed directly into cavities</li>
+  <li><strong>Transfer molds</strong>: rubber flows through sprues and runners into cavities</li>
+  <li><strong>Injection molds</strong>: rubber is injected through a sprue into a runner network</li>
+</ul>
+
+<p>Gate placement impacts material flow, molding pressure, cure uniformity, and cycle throughput.</p>
+
+<hr />
+
+<h3 id="5-ejection--demolding-features"><strong>5. Ejection / Demolding Features</strong></h3>
+
+<p>Unlike plastics, rubber often adheres to tool surfaces as it cures. Tools use:</p>
+
+<ul>
+  <li>Air ejection</li>
+  <li>Stripper plates</li>
+  <li>Push pins</li>
+  <li>Draft angles</li>
+  <li>Mold-release coatings</li>
+</ul>
+
+<p>These features ensure consistent, flash-free parts and reduce cycle time.</p>
+
+<hr />
+
+<h2 id="how-rubber-tooling-differs-from-plastic-tooling">How Rubber Tooling Differs from Plastic Tooling</h2>
+
+<p>Although both use steel or aluminum molds, rubber tooling differs in several important ways:</p>
+
+<h3 id="1-higher-temperatures"><strong>1. Higher Temperatures</strong></h3>
+
+<p>Rubber cures at 150–200°C, requiring stable and thermally balanced molds.</p>
+
+<h3 id="2-squeeze-flow-and-compression"><strong>2. Squeeze Flow and Compression</strong></h3>
+
+<p>Rubber flows under pressure differently than molten plastic. Tools must handle:</p>
+
+<ul>
+  <li>High tonnage</li>
+  <li>Viscous material flow</li>
+  <li>Parting line squeeze</li>
+</ul>
+
+<h3 id="3-flash-control-is-critical"><strong>3. Flash Control Is Critical</strong></h3>
+
+<p>Rubber seeks gaps. Precision machining, shutoffs, and surface finishes must be extremely tight to prevent excess flash.</p>
+
+<h3 id="4-venting-is-essential"><strong>4. Venting Is Essential</strong></h3>
+
+<p>Air must escape during curing. Tools include micro-vents or intentional flash points to ensure full cavity fill.</p>
+
+<hr />
+
+<h2 id="designing-parts-with-tooling-in-mind">Designing Parts With Tooling in Mind</h2>
+
+<h3 id="1-include-draft-angles"><strong>1. Include Draft Angles</strong></h3>
+
+<p>Even small draft angles help free parts from the mold and reduce sticking.</p>
+
+<h3 id="2-avoid-deep-undercuts"><strong>2. Avoid Deep Undercuts</strong></h3>
+
+<p>Undercuts dramatically increase tooling cost by requiring side actions or collapsible cores.</p>
+
+<h3 id="3-place-parting-lines-strategically"><strong>3. Place Parting Lines Strategically</strong></h3>
+
+<p>Choose locations where flash is acceptable or easy to trim.</p>
+
+<h3 id="4-maintain-uniform-wall-thickness"><strong>4. Maintain Uniform Wall Thickness</strong></h3>
+
+<p>Uneven walls cause curing inconsistencies and warping.</p>
+
+<h3 id="5-provide-radiused-corners"><strong>5. Provide Radiused Corners</strong></h3>
+
+<p>Sharp internal corners trap rubber and stress the mold steel—radiuses improve flow and longevity.</p>
+
+<hr />
+
+<h2 id="types-of-rubber-molds">Types of Rubber Molds</h2>
+
+<h3 id="compression-molds"><strong>Compression Molds</strong></h3>
+
+<ul>
+  <li>Lowest tooling cost</li>
+  <li>Ideal for simple shapes or large parts</li>
+  <li>Longer cycle times</li>
+</ul>
+
+<h3 id="transfer-molds"><strong>Transfer Molds</strong></h3>
+
+<ul>
+  <li>Better control of flash</li>
+  <li>Ideal for moderately complex shapes</li>
+  <li>Good for medium production volumes</li>
+</ul>
+
+<h3 id="injection-molds"><strong>Injection Molds</strong></h3>
+
+<ul>
+  <li>Highest tooling cost</li>
+  <li>Best for small, precision parts</li>
+  <li>Fastest cycle times</li>
+  <li>Consistent quality and minimal flash</li>
+</ul>
+
+<hr />
+
+<h2 id="tooling-materials">Tooling Materials</h2>
+
+<p>Most rubber tooling is made from:</p>
+
+<ul>
+  <li><strong>P20 tool steel</strong> (balanced cost/longevity)</li>
+  <li><strong>S7 steel</strong> (shock resistance)</li>
+  <li><strong>H13</strong> (high-temp durability)</li>
+  <li><strong>Stainless steel</strong> (corrosion resistance)</li>
+</ul>
+
+<p>Aluminum is rarely used due to heat and pressure requirements.</p>
+
+<hr />
+
+<h2 id="how-long-does-rubber-tooling-last">How Long Does Rubber Tooling Last?</h2>
+
+<p>Tool life depends on:</p>
+
+<ul>
+  <li>Elastomer type (abrasive fillers shorten life)</li>
+  <li>Cure temperature</li>
+  <li>Clamping pressure</li>
+  <li>Surface finish</li>
+  <li>Maintenance and cleaning</li>
+</ul>
+
+<p>A well-built steel mold can last <strong>hundreds of thousands to millions</strong> of cycles.</p>
+
+<hr />
+
+<h2 id="summary-what-engineers-should-know-before-starting-tooling">Summary: What Engineers Should Know Before Starting Tooling</h2>
+
+<ul>
+  <li>Rubber flows differently than plastic—design with compression and flash control in mind.</li>
+  <li>Tooling complexity depends heavily on part geometry.</li>
+  <li>Strategic parting line placement saves cost and reduces trimming.</li>
+  <li>Injection molding offers the best precision, while compression molds are most economical.</li>
+  <li>Early collaboration with a rubber molder leads to better results and fewer tool revisions.</li>
+</ul>
+
+<hr />
+
+<h2 id="need-help-understanding-what-options-you-have-when-it-comes-to-tooling">Need Help Understanding What Options You Have When it Comes to Tooling?</h2>
+
+<p>Primo Rubber Co. specializes in injection molding custom rubber components. <a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your project and find the ideal material, design, and tooling solution for your rubber parts.</p>]]></content><author><name>Primo Rubber Co.</name></author><category term="blog" /><summary type="html"><![CDATA[Primo Rubber Co. explains the fundamentals of rubber molding tooling—how molds are built, how cavities and parting lines are designed, and what engineers need to know before starting a new molded rubber project.]]></summary></entry><entry><title type="html">Compression Set in Rubber: What It Is and How to Reduce It in Long-Term Sealing Applications</title><link href="http://localhost:4000/blog/2025/11/28/compression-set-in-rubber.html" rel="alternate" type="text/html" title="Compression Set in Rubber: What It Is and How to Reduce It in Long-Term Sealing Applications" /><published>2025-11-28T00:00:00-07:00</published><updated>2025-11-28T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/28/compression-set-in-rubber</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/28/compression-set-in-rubber.html"><![CDATA[<p>Rubber seals are expected to maintain their shape, elasticity, and sealing force for years—sometimes decades. But over time, many elastomers <strong>permanently deform</strong> under constant compression or temperature, leading to leaks, pressure loss, or total seal failure.</p>
+
+<p>This permanent deformation is known as <strong>compression set</strong>, and understanding it is key to designing reliable gaskets, O-rings, bushings, and other elastomeric sealing components.</p>
+
+<p>In this guide, <strong>Primo Rubber Co.</strong> explains what compression set is, why it occurs, how different materials compare, and what you can do to minimize it.</p>
+
+<hr />
+
+<h2 id="what-is-compression-set">What Is Compression Set?</h2>
+
+<p><strong>Compression set</strong> is the amount of permanent deformation a rubber part retains after being compressed for a period of time under specific temperature conditions.</p>
+
+<p>Formally, compression set is defined (ASTM D395) as:</p>
+
+<blockquote>
+  <p><strong>The percentage of a rubber material’s original thickness that is not recovered after being compressed and released.</strong></p>
+</blockquote>
+
+<p>For example:</p>
+
+<ul>
+  <li>A seal compressed by 25% but only recovering to 15% compression afterward has a high compression set.</li>
+  <li>A seal that nearly returns to its original size has a low compression set.</li>
+</ul>
+
+<p><strong>Lower compression set = better long-term sealing performance.</strong></p>
+
+<hr />
+
+<h2 id="why-compression-set-matters">Why Compression Set Matters</h2>
+
+<p>Rubber seals rely on <strong>elastic recovery</strong> to maintain contact pressure. If the material takes a set:</p>
+
+<ul>
+  <li>The seal loses force against the mating surface</li>
+  <li>Gaps form</li>
+  <li>Leakage begins</li>
+  <li>Pressure drops in pneumatic or hydraulic systems</li>
+  <li>Fasteners need retightening</li>
+</ul>
+
+<p>In safety-critical systems (medical, automotive, aerospace), compression set is a leading cause of long-term failure.</p>
+
+<hr />
+
+<h2 id="what-causes-compression-set">What Causes Compression Set?</h2>
+
+<p>Several factors contribute to permanent deformation:</p>
+
+<h3 id="1-heat-exposure"><strong>1. Heat Exposure</strong></h3>
+
+<p>Heat accelerates polymer relaxation and crosslink degradation.<br />
+Higher temperatures → higher compression set.</p>
+
+<h3 id="2-continuous-compression"><strong>2. Continuous Compression</strong></h3>
+
+<p>Rubber under constant load slowly relaxes and loses elasticity.</p>
+
+<h3 id="3-chemical-swelling"><strong>3. Chemical Swelling</strong></h3>
+
+<p>Exposure to incompatible oils, fuels, or solvents weakens the elastomer network.</p>
+
+<h3 id="4-poor-material-selection"><strong>4. Poor Material Selection</strong></h3>
+
+<p>Some rubber types naturally resist compression set better than others.</p>
+
+<h3 id="5-improper-cure"><strong>5. Improper Cure</strong></h3>
+
+<p>Undercured elastomers struggle to return to original shape.</p>
+
+<h3 id="6-thin-cross-sections"><strong>6. Thin Cross Sections</strong></h3>
+
+<p>Thin seals have less material to recover and may set faster.</p>
+
+<hr />
+
+<h2 id="which-rubber-compounds-perform-best">Which Rubber Compounds Perform Best?</h2>
+
+<p>Here’s a general ranking from <strong>best</strong> to <strong>worst</strong> compression set performance:</p>
+
+<h3 id="excellent-low-compression-set"><strong>Excellent (Low Compression Set)</strong></h3>
+
+<ul>
+  <li><strong>Silicone (VMQ / LSR)</strong></li>
+  <li><strong>FKM (Viton®-type fluoroelastomers)</strong></li>
+  <li><strong>EPDM</strong></li>
+  <li><strong>HNBR</strong></li>
+</ul>
+
+<h3 id="good"><strong>Good</strong></h3>
+
+<ul>
+  <li><strong>NBR (Nitrile)</strong></li>
+  <li><strong>Neoprene (CR)</strong></li>
+</ul>
+
+<h3 id="poor"><strong>Poor</strong></h3>
+
+<ul>
+  <li><strong>Natural Rubber (NR)</strong></li>
+  <li><strong>SBR (styrene-butadiene)</strong></li>
+  <li><strong>Butyl rubbers under high heat</strong></li>
+</ul>
+
+<p>Silicone is the standout performer at high temperatures, while EPDM is strong when exposed to weathering or steam environments.</p>
+
+<hr />
+
+<h2 id="how-to-reduce-compression-set-in-your-application">How to Reduce Compression Set in Your Application</h2>
+
+<h3 id="1-choose-a-better-base-polymer"><strong>1. Choose a Better Base Polymer</strong></h3>
+
+<p>Select rubber materials known for low compression set under your operating conditions.</p>
+
+<h3 id="2-use-proper-crosslink-systems"><strong>2. Use Proper Crosslink Systems</strong></h3>
+
+<p>Peroxide curing often gives lower compression set than sulfur curing in many compounds.</p>
+
+<h3 id="3-avoid-excessive-operating-temperatures"><strong>3. Avoid Excessive Operating Temperatures</strong></h3>
+
+<p>Every 10°C temperature increase can drastically worsen compression set.</p>
+
+<h3 id="4-increase-cross-section-thickness"><strong>4. Increase Cross-Section Thickness</strong></h3>
+
+<p>Thicker seals retain more elastic recovery.</p>
+
+<h3 id="5-design-for-partial-compression"><strong>5. Design for Partial Compression</strong></h3>
+
+<p>Avoid compressing seals more than <strong>20–30%</strong> unless the geometry specifically allows it.</p>
+
+<h3 id="6-use-backing-rings-or-gland-supports"><strong>6. Use Backing Rings or Gland Supports</strong></h3>
+
+<p>These prevent extrusion and improve long-term shape retention.</p>
+
+<h3 id="7-consider-dual-durometer-or-spring-energized-designs"><strong>7. Consider Dual-Durometer or Spring-Energized Designs</strong></h3>
+
+<p>A soft sealing surface backed by a stiffer core or spring maintains long-term load.</p>
+
+<hr />
+
+<h2 id="common-applications-where-compression-set-is-critical">Common Applications Where Compression Set Is Critical</h2>
+
+<ul>
+  <li>O-rings in pumps and valves</li>
+  <li>Static gaskets in industrial machinery</li>
+  <li>Outdoor seals exposed to heat cycling</li>
+  <li>HVAC and refrigeration systems</li>
+  <li>Medical device valves and septums</li>
+  <li>High-temperature automotive components</li>
+  <li>Electrical enclosure gaskets</li>
+</ul>
+
+<p>In all these cases, selecting the right elastomer is critical to long-term performance.</p>
+
+<hr />
+
+<h2 id="summary-designing-for-low-compression-set">Summary: Designing for Low Compression Set</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Need</th>
+      <th>Recommended Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>High temperature</td>
+      <td>Silicone, FKM</td>
+    </tr>
+    <tr>
+      <td>Outdoor &amp; steam</td>
+      <td>EPDM</td>
+    </tr>
+    <tr>
+      <td>Oil-resistance + durability</td>
+      <td>HNBR</td>
+    </tr>
+    <tr>
+      <td>General-purpose sealing</td>
+      <td>NBR, Neoprene</td>
+    </tr>
+    <tr>
+      <td>Lowest possible compression set</td>
+      <td>Silicone</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="need-help-reducing-compression-set-in-your-seal-design">Need Help Reducing Compression Set in Your Seal Design?</h2>
+
+<p>Primo Rubber Co. specializes in injection molding custom rubber components. <a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your project and find the ideal material and design solution for your rubber parts.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Primo Rubber Co. explains how compression set affects rubber seals, why it happens, and how to choose materials and designs that maintain sealing performance over time.]]></summary></entry><entry><title type="html">Understanding Rubber Hardness (Shore A): How to Select the Right Durometer for Your Application</title><link href="http://localhost:4000/blog/2025/11/27/understanding-hardness-in-rubber.html" rel="alternate" type="text/html" title="Understanding Rubber Hardness (Shore A): How to Select the Right Durometer for Your Application" /><published>2025-11-27T00:00:00-07:00</published><updated>2025-11-27T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/27/understanding-hardness-in-rubber</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/27/understanding-hardness-in-rubber.html"><![CDATA[<p>Selecting the correct <strong>rubber hardness</strong>, or <em>durometer</em>, is one of the most important decisions in designing a rubber part. Whether you’re developing a seal, suspension bushing, vibration isolator, or molded gasket, the hardness of the elastomer affects how the part compresses, seals, flexes, absorbs vibration, and ultimately survives long-term use.</p>
+
+<p>This guide from <strong>Primo Rubber Co.</strong> breaks down what Shore A hardness is, how it’s measured, how it affects performance, and how to choose the right durometer for your application.</p>
+
+<hr />
+
+<h2 id="what-is-rubber-hardness-shore-a">What Is Rubber Hardness (Shore A)?</h2>
+
+<p>Rubber hardness is measured using the <strong>Shore A scale</strong>, which ranges approximately from:</p>
+
+<ul>
+  <li><strong>0 Shore A</strong> — very soft, gel-like</li>
+  <li><strong>20–40 Shore A</strong> — soft, flexible rubber</li>
+  <li><strong>50–70 Shore A</strong> — medium hardness (typical for many seals, gaskets, bushings)</li>
+  <li><strong>80–95 Shore A</strong> — very firm, rigid elastomers</li>
+</ul>
+
+<p>The test uses a device called a <strong>durometer</strong> that presses a probe (an indenter) into the rubber surface under a standardized force. The depth of the indentation determines the hardness value.</p>
+
+<hr />
+
+<h2 id="why-durometer-matters">Why Durometer Matters</h2>
+
+<p>Rubber hardness directly affects:</p>
+
+<h3 id="1-compression-and-sealing-performance"><strong>1. Compression and Sealing Performance</strong></h3>
+
+<p>Soft rubber (20–50 Shore A) seals easily but can extrude or deform under pressure.<br />
+Hard rubber (70–90 Shore A) resists deformation but requires more force to compress.</p>
+
+<h3 id="2-vibration-and-shock-isolation"><strong>2. Vibration and Shock Isolation</strong></h3>
+
+<p>Lower durometers absorb more vibration.<br />
+Higher durometers transmit more vibration but provide greater control and precision.</p>
+
+<h3 id="3-abrasion-and-durability"><strong>3. Abrasion and Durability</strong></h3>
+
+<p>Harder compounds often resist abrasion better, but some soft rubbers (like natural rubber) are also highly abrasion-resistant depending on the formulation.</p>
+
+<h3 id="4-assembly-and-fit"><strong>4. Assembly and Fit</strong></h3>
+
+<p>Soft rubber conforms to surface irregularities.<br />
+Hard rubber maintains geometry and tight tolerances better.</p>
+
+<hr />
+
+<h2 id="how-durometer-is-tested">How Durometer Is Tested</h2>
+
+<p>Shore A hardness testing follows <strong>ASTM D2240</strong>. Key details include:</p>
+
+<ul>
+  <li>A spring-loaded indenter presses into the rubber</li>
+  <li>The test is done quickly to avoid creep behavior</li>
+  <li>Parts should be at standard temperature and thickness</li>
+  <li>Multiple readings are typically averaged</li>
+</ul>
+
+<p>Note that <strong>thin parts</strong> or <strong>complex geometries</strong> can produce misleading readings because they may flex during testing.</p>
+
+<hr />
+
+<h2 id="typical-durometer-ranges-by-application">Typical Durometer Ranges by Application</h2>
+
+<p>Here are general guidelines; actual needs depend on geometry, compression, and loading.</p>
+
+<h3 id="2040-shore-a"><strong>20–40 Shore A</strong></h3>
+
+<ul>
+  <li>Soft gaskets</li>
+  <li>Conformal seals</li>
+  <li>Medical device membranes</li>
+  <li>Flexible diaphragms</li>
+</ul>
+
+<h3 id="5060-shore-a"><strong>50–60 Shore A</strong></h3>
+
+<ul>
+  <li>General-purpose seals</li>
+  <li>Electrical enclosures</li>
+  <li>Automotive weatherstripping</li>
+  <li>Pump seals</li>
+</ul>
+
+<h3 id="6575-shore-a"><strong>65–75 Shore A</strong></h3>
+
+<ul>
+  <li>Suspension bushings</li>
+  <li>Industrial mounts</li>
+  <li>Valve seals</li>
+  <li>Rubber rollers</li>
+</ul>
+
+<h3 id="8095-shore-a"><strong>80–95 Shore A</strong></h3>
+
+<ul>
+  <li>Heavy-duty isolators</li>
+  <li>High-pressure seals</li>
+  <li>Structural bumpers</li>
+  <li>Hard wheels or rollers</li>
+</ul>
+
+<hr />
+
+<h2 id="how-to-choose-the-right-durometer">How to Choose the Right Durometer</h2>
+
+<p>Here are the most important factors to consider:</p>
+
+<h3 id="1-what-forces-will-the-part-experience"><strong>1. What forces will the part experience?</strong></h3>
+
+<p>Higher forces may require a harder rubber to avoid permanent deformation.</p>
+
+<h3 id="2-how-much-compression-or-deflection-is-acceptable"><strong>2. How much compression or deflection is acceptable?</strong></h3>
+
+<p>Soft rubbers compress easily; hard rubbers require more load.</p>
+
+<h3 id="3-is-vibration-isolation-important"><strong>3. Is vibration isolation important?</strong></h3>
+
+<p>Go softer for greater damping, unless precision is needed.</p>
+
+<h3 id="4-will-the-part-face-abrasion-or-wear"><strong>4. Will the part face abrasion or wear?</strong></h3>
+
+<p>Harder rubbers often resist abrasion better, but not always—compound choice matters.</p>
+
+<h3 id="5-what-tolerances-are-required"><strong>5. What tolerances are required?</strong></h3>
+
+<p>Harder rubbers can hold tighter dimensional tolerances.</p>
+
+<h3 id="6-is-chemical-resistance-a-major-factor"><strong>6. Is chemical resistance a major factor?</strong></h3>
+
+<p>Hardness alone doesn’t determine chemical resistance; material type matters too.</p>
+
+<h3 id="7-what-is-the-part-thickness"><strong>7. What is the part thickness?</strong></h3>
+
+<p>Thin parts behave “softer” during assembly; you may need a higher durometer to compensate.</p>
+
+<hr />
+
+<h2 id="additional-considerations">Additional Considerations</h2>
+
+<h3 id="durometer-drift-over-time"><strong>Durometer Drift Over Time</strong></h3>
+
+<p>Rubber tends to harden slightly as it ages due to:</p>
+
+<ul>
+  <li>Heat exposure</li>
+  <li>Oxidation</li>
+  <li>UV and ozone</li>
+  <li>Chemical exposure</li>
+</ul>
+
+<p>Compounds can be formulated to slow this effect.</p>
+
+<h3 id="use-of-dual-durometer-designs"><strong>Use of Dual-Durometer Designs</strong></h3>
+
+<p>Parts can be molded with two hardness levels:</p>
+
+<ul>
+  <li>Soft exterior for compliance</li>
+  <li>Hard interior for structural support</li>
+</ul>
+
+<p>This is common in suspension bushings and vibration mounts.</p>
+
+<hr />
+
+<h2 id="summary-picking-the-right-hardness">Summary: Picking the Right Hardness</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Requirement</th>
+      <th>Recommended Durometer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Soft seal / easy compression</td>
+      <td>30–50 Shore A</td>
+    </tr>
+    <tr>
+      <td>General-purpose seal</td>
+      <td>50–60 Shore A</td>
+    </tr>
+    <tr>
+      <td>Controlled movement (bushings/mounts)</td>
+      <td>65–75 Shore A</td>
+    </tr>
+    <tr>
+      <td>High precision or structural load</td>
+      <td>80–95 Shore A</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="need-help-choosing-the-right-durometer">Need Help Choosing the Right Durometer?</h2>
+
+<p>Primo Rubber Co. specializes in injection molding custom rubber components. <a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your project and find the ideal material and design solution for your rubber parts.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Primo Rubber Co. explains how Shore A hardness works, how durometer affects performance, and how to choose the right rubber hardness for seals, bushings, mounts, and molded components.]]></summary></entry><entry><title type="html">How to Choose the Right Rubber Compound for Outdoor Applications: UV, Ozone, and Weathering Resistance Explained</title><link href="http://localhost:4000/blog/2025/11/26/choose-the-right-rubber-compound-for-outdoor-applications.html" rel="alternate" type="text/html" title="How to Choose the Right Rubber Compound for Outdoor Applications: UV, Ozone, and Weathering Resistance Explained" /><published>2025-11-26T00:00:00-07:00</published><updated>2025-11-26T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/26/choose-the-right-rubber-compound-for-outdoor-applications</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/26/choose-the-right-rubber-compound-for-outdoor-applications.html"><![CDATA[<p>Rubber components used outdoors face far harsher conditions than those in controlled indoor environments. Sunlight, ozone, moisture, temperature swings, and atmospheric pollutants can all break down elastomers—leading to cracking, hardening, and premature failure.</p>
+
+<p>This guide from <strong>Primo Rubber Co.</strong> explains how UV, ozone, and weathering affect different rubber compounds, and how to choose the right material for outdoor applications like gaskets, boots, bumpers, seals, pads, and structural isolation components.</p>
+
+<hr />
+
+<h2 id="why-outdoor-environments-destroy-rubber">Why Outdoor Environments Destroy Rubber</h2>
+
+<p>Rubber degradation outdoors comes primarily from three factors:</p>
+
+<h3 id="1-uv-ultraviolet-radiation"><strong>1. UV (Ultraviolet) Radiation</strong></h3>
+
+<p>UV breaks down polymer chains, causing:</p>
+
+<ul>
+  <li>Surface chalking</li>
+  <li>Micro-cracking</li>
+  <li>Hardening</li>
+  <li>Loss of elasticity</li>
+</ul>
+
+<p>Black rubber with carbon black filler resists UV extremely well, while light-colored compounds are more vulnerable.</p>
+
+<hr />
+
+<h3 id="2-ozone-exposure"><strong>2. Ozone Exposure</strong></h3>
+
+<p>Ozone (O₃) in the atmosphere reacts with double bonds in certain elastomers, causing:</p>
+
+<ul>
+  <li>Surface cracks (often perpendicular to strain direction)</li>
+  <li>Brittleness</li>
+  <li>Material splitting under minor flexing</li>
+</ul>
+
+<p>This is especially destructive in flexing components like boots or bushings.</p>
+
+<hr />
+
+<h3 id="3-weathering--environmental-cycling"><strong>3. Weathering &amp; Environmental Cycling</strong></h3>
+
+<p>Weathering includes:</p>
+
+<ul>
+  <li>Moisture and standing water</li>
+  <li>Temperature swings and thermal shock</li>
+  <li>Salt spray</li>
+  <li>Airborne pollutants</li>
+  <li>Freeze–thaw cycles</li>
+</ul>
+
+<p>These stressors contribute to long-term aging and mechanical breakdown.</p>
+
+<hr />
+
+<h2 id="best-rubber-compounds-for-outdoor-use">Best Rubber Compounds for Outdoor Use</h2>
+
+<p>Below is a breakdown of the most common outdoor-rated elastomers and what environments they perform best in.</p>
+
+<hr />
+
+<h3 id="epdm-ethylene-propylene-diene-monomer"><strong>EPDM (Ethylene Propylene Diene Monomer)</strong></h3>
+
+<p><strong>Best overall outdoor rubber</strong></p>
+
+<ul>
+  <li><strong>Excellent UV resistance</strong></li>
+  <li><strong>Exceptional ozone resistance</strong></li>
+  <li><strong>Great weathering resistance</strong></li>
+  <li>Performs well in steam, water, and outdoor moisture</li>
+  <li>Poor resistance to oils and fuels</li>
+</ul>
+
+<p><strong>Best for:</strong><br />
+Roofing components, seals, HVAC, outdoor gaskets, automotive weatherstripping, water-exposed components.</p>
+
+<hr />
+
+<h3 id="silicone-rubber-vmq--lsr"><strong>Silicone Rubber (VMQ &amp; LSR)</strong></h3>
+
+<p><strong>Best for extreme temperatures</strong></p>
+
+<ul>
+  <li>Withstands <strong>–60°C to 200+°C</strong></li>
+  <li>Very good UV and ozone resistance</li>
+  <li>Great flexibility even in cold climates</li>
+  <li>Poor abrasion resistance</li>
+  <li>Moderately poor tensile strength compared to EPDM or FKM</li>
+</ul>
+
+<p><strong>Best for:</strong><br />
+Lighting gaskets, outdoor electronics, high-heat enclosures, solar equipment.</p>
+
+<hr />
+
+<h3 id="fkm-viton-type-fluoroelastomer"><strong>FKM (Viton®-type Fluoroelastomer)</strong></h3>
+
+<p><strong>Best for outdoor oil/fuel exposure</strong></p>
+
+<ul>
+  <li>Strong UV and weathering resistance</li>
+  <li>Excellent chemical and fuel resistance</li>
+  <li>Great high-temperature stability</li>
+  <li>More expensive than most rubbers</li>
+</ul>
+
+<p><strong>Best for:</strong><br />
+Outdoor fuel systems, generators, chemical exposure, aerospace and industrial seals.</p>
+
+<hr />
+
+<h3 id="nbr-nitrile-rubber"><strong>NBR (Nitrile Rubber)</strong></h3>
+
+<p><strong>Good outdoor performance—if formulated correctly</strong></p>
+
+<p>Standard NBR is not a top performer outdoors, but specialized hydrogenated versions (<em>HNBR</em>) offer:</p>
+
+<ul>
+  <li>Better UV resistance</li>
+  <li>Better ozone resistance</li>
+  <li>Great oil resistance</li>
+  <li>Good abrasion resistance</li>
+</ul>
+
+<p><strong>Best for:</strong><br />
+Outdoor hydraulic systems, machinery boots, agricultural equipment.</p>
+
+<hr />
+
+<h3 id="natural-rubber-nr"><strong>Natural Rubber (NR)</strong></h3>
+
+<p><strong>Not ideal outdoors</strong></p>
+
+<ul>
+  <li>Poor UV and ozone resistance without heavy stabilization</li>
+  <li>Excellent mechanical properties</li>
+  <li>Good abrasion resistance</li>
+</ul>
+
+<p>Use only if protected from direct sunlight or treated with coatings.</p>
+
+<hr />
+
+<h2 id="tips-for-making-rubber-last-longer-outdoors">Tips for Making Rubber Last Longer Outdoors</h2>
+
+<p>Regardless of the compound, consider these design strategies:</p>
+
+<h3 id="1-choose-carbon-blackfilled-black-rubber"><strong>1. Choose carbon-black–filled black rubber</strong></h3>
+
+<p>Carbon black acts as a powerful UV absorber.</p>
+
+<h3 id="2-add-anti-ozonants-and-wax-bloom-agents"><strong>2. Add anti-ozonants and wax bloom agents</strong></h3>
+
+<p>These form protective surface layers over time.</p>
+
+<h3 id="3-minimize-constant-tensile-strain-in-exposed-areas"><strong>3. Minimize constant tensile strain in exposed areas</strong></h3>
+
+<p>Surface cracks from ozone form perpendicular to strain.</p>
+
+<h3 id="4-consider-coatings-or-housings"><strong>4. Consider coatings or housings</strong></h3>
+
+<p>A mechanical shield can dramatically increase service life.</p>
+
+<h3 id="5-use-thicker-cross-sections-where-uv-exposure-is-intense"><strong>5. Use thicker cross-sections where UV exposure is intense</strong></h3>
+
+<p>More material slows through-thickness degradation.</p>
+
+<hr />
+
+<h2 id="summary-which-rubber-should-you-choose">Summary: Which Rubber Should You Choose?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Environment</th>
+      <th>Best Compound</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>General outdoor exposure</strong></td>
+      <td>EPDM</td>
+    </tr>
+    <tr>
+      <td><strong>Extreme temperatures</strong></td>
+      <td>Silicone (VMQ / LSR)</td>
+    </tr>
+    <tr>
+      <td><strong>Fuel/oil exposure + outdoor</strong></td>
+      <td>FKM</td>
+    </tr>
+    <tr>
+      <td><strong>Outdoor abrasion + oils</strong></td>
+      <td>HNBR</td>
+    </tr>
+    <tr>
+      <td><strong>Budget but acceptable performance</strong></td>
+      <td>UV-stabilized NBR</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="need-help-selecting-the-right-outdoor-rubber">Need Help Selecting the Right Outdoor Rubber?</h2>
+
+<p>Primo Rubber Co. specializes in injection molding custom rubber components. <a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your project and find the ideal material and design solution for your rubber parts.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[A practical guide from Primo Rubber Co. on selecting durable rubber materials for outdoor environments, including UV exposure, ozone attack, temperature cycling, and long-term weathering.]]></summary></entry><entry><title type="html">Injection vs. Transfer Molding for Small Precision Rubber Seals in Medical Devices</title><link href="http://localhost:4000/blog/2025/11/25/injection-molding-medical-rubber-seals.html" rel="alternate" type="text/html" title="Injection vs. Transfer Molding for Small Precision Rubber Seals in Medical Devices" /><published>2025-11-25T00:00:00-07:00</published><updated>2025-11-25T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/25/injection-molding-medical-rubber-seals</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/25/injection-molding-medical-rubber-seals.html"><![CDATA[<p>When developing <strong>small, precision rubber seals for medical devices</strong>, the molding process is just as important as the compound. Choosing between <strong>injection molding</strong> and <strong>transfer molding</strong> affects part accuracy, flash levels, material waste, assembly fit, and long-term reliability.</p>
+
+<p>At <strong>Primo Rubber Co.</strong>, we work with medical device engineers to select the optimal molding method based on geometry, tolerances, material behavior, and regulatory requirements. This guide breaks down how both processes compare — specifically for small, high-precision elastomeric seals.</p>
+
+<hr />
+
+<h2 id="why-medical-device-seals-require-special-consideration">Why Medical Device Seals Require Special Consideration</h2>
+
+<p>Seals used in medical devices — such as valves, diaphragms, micro O-rings, duckbill valves, septums, and pump components — must meet unusually strict requirements:</p>
+
+<ul>
+  <li><strong>Ultra-tight dimensional tolerances</strong></li>
+  <li><strong>Low or near-zero flash</strong></li>
+  <li><strong>Biocompatibility</strong></li>
+  <li><strong>Low particulates and smooth surface finish</strong></li>
+  <li><strong>Repeatable performance under pressure or motion</strong></li>
+  <li><strong>Sterilization compatibility (EtO, steam, gamma, plasma)</strong></li>
+</ul>
+
+<p>These demands often dictate which molding method is most suitable.</p>
+
+<hr />
+
+<h2 id="injection-molding-for-medical-rubber-seals">Injection Molding for Medical Rubber Seals</h2>
+
+<p>Injection molding is ideal when precision and consistency are top priorities.</p>
+
+<h3 id="how-it-works">How it works</h3>
+
+<p>Rubber is plasticized inside a heated barrel, then injected under pressure into a closed mold.</p>
+
+<h3 id="advantages">Advantages</h3>
+
+<ul>
+  <li>
+    <p><strong>Excellent dimensional repeatability</strong><br />
+Great for micro-seals and thin-walled components.</p>
+  </li>
+  <li>
+    <p><strong>Low flash due to high clamp pressure</strong><br />
+Critical for medical sealing surfaces.</p>
+  </li>
+  <li>
+    <p><strong>Fast cycle times</strong><br />
+Makes it cost-effective for medium- and high-volume production.</p>
+  </li>
+  <li>
+    <p><strong>Automated gating and runner trimming</strong><br />
+Reduces manual labor and contamination risk.</p>
+  </li>
+  <li>
+    <p><strong>Gentle material handling</strong><br />
+Prevents pre-curing and maintains compound integrity.</p>
+  </li>
+</ul>
+
+<h3 id="when-injection-molding-is-the-better-choice">When injection molding is the better choice</h3>
+
+<ul>
+  <li>Parts require <strong>tighter than ±0.05 mm tolerance</strong></li>
+  <li>Seals have <strong>delicate features</strong>, micro-lips, or thin membranes</li>
+  <li>High annual volumes</li>
+  <li>Multi-cavity tooling is needed</li>
+  <li>Regulatory environments require <strong>repeatability and low particulate generation</strong></li>
+</ul>
+
+<hr />
+
+<h2 id="transfer-molding-for-medical-rubber-seals">Transfer Molding for Medical Rubber Seals</h2>
+
+<p>Transfer molding bridges the gap between compression and injection molding, allowing more control for complex geometries.</p>
+
+<h3 id="how-it-works-1">How it works</h3>
+
+<p>A slug of rubber is placed in a heated pot. A plunger pushes it through channels into the cavities.</p>
+
+<h3 id="advantages-1">Advantages</h3>
+
+<ul>
+  <li>
+    <p><strong>Better for complex geometries</strong><br />
+Particularly small parts with sharp internal corners or deep undercuts (when mold design permits).</p>
+  </li>
+  <li>
+    <p><strong>Lower tooling cost</strong><br />
+Ideal for prototyping or lower production volumes.</p>
+  </li>
+  <li>
+    <p><strong>Good material distribution control</strong><br />
+Useful for minimizing knit lines or stress marks.</p>
+  </li>
+  <li>
+    <p><strong>Reduced shear vs. injection molding</strong><br />
+Helps with shear-sensitive medical elastomers like some fluorosilicones.</p>
+  </li>
+</ul>
+
+<h3 id="when-transfer-molding-is-the-better-choice">When transfer molding is the better choice</h3>
+
+<ul>
+  <li>Short runs or prototyping</li>
+  <li>Exotic materials that degrade under high shear</li>
+  <li>Parts with complex flow paths</li>
+  <li>Seals that don’t require ultra-tight flash control</li>
+  <li>Situations where tooling budget is limited</li>
+</ul>
+
+<hr />
+
+<h2 id="comparing-injection-vs-transfer-molding-side-by-side">Comparing Injection vs. Transfer Molding Side-by-Side</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Factor</th>
+      <th>Injection Molding</th>
+      <th>Transfer Molding</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Dimensional accuracy</strong></td>
+      <td>★★★★★</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td><strong>Flash control</strong></td>
+      <td>★★★★★</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td><strong>Tooling cost</strong></td>
+      <td>★★★★☆ (higher)</td>
+      <td>★★☆☆☆ (lower)</td>
+    </tr>
+    <tr>
+      <td><strong>Cycle time</strong></td>
+      <td>★★★★★</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td><strong>Suitable for micro-seals</strong></td>
+      <td>Yes</td>
+      <td>Sometimes</td>
+    </tr>
+    <tr>
+      <td><strong>Material shear</strong></td>
+      <td>Medium–Low</td>
+      <td>Very Low</td>
+    </tr>
+    <tr>
+      <td><strong>Best for</strong></td>
+      <td>High-precision, high-volume</td>
+      <td>Complex shapes, lower volume</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="special-material-considerations-for-medical-applications">Special Material Considerations for Medical Applications</h2>
+
+<p>Both molding methods can work with common medical elastomers:</p>
+
+<ul>
+  <li><strong>LSR (liquid silicone rubber)</strong></li>
+  <li><strong>HCR silicone</strong></li>
+  <li><strong>EPDM for pump seals</strong></li>
+  <li><strong>FKM/FPM for chemical exposure</strong></li>
+  <li><strong>Fluorosilicone</strong></li>
+  <li><strong>Custom biocompatible compounds</strong></li>
+</ul>
+
+<p>Injection molding excels for LSR micro-parts, while transfer molding is often preferred for high-consistency rubber (HCR) parts with sensitive geometries.</p>
+
+<hr />
+
+<h2 id="how-to-choose-the-right-process">How to Choose the Right Process</h2>
+
+<p>Ask these questions when selecting a molding method:</p>
+
+<ol>
+  <li><strong>What are the dimensional tolerance requirements?</strong></li>
+  <li><strong>What annual volume do you expect?</strong></li>
+  <li><strong>Does the part have delicate or micro-scale features?</strong></li>
+  <li><strong>Is flash removal unacceptable or restricted?</strong></li>
+  <li><strong>Is the elastomer shear-sensitive?</strong></li>
+  <li><strong>What is the tooling budget?</strong></li>
+  <li><strong>Do you need a multi-cavity setup?</strong></li>
+</ol>
+
+<p>Primo Rubber Co. helps evaluate each part’s geometry, functional requirements, and regulatory environment to determine the correct molding strategy.</p>
+
+<hr />
+
+<h2 id="need-help-designing-medical-seals-or-choosing-a-molding-process">Need Help Designing Medical Seals or Choosing a Molding Process?</h2>
+
+<p>Primo Rubber Co. specializes in injection molding custom rubber components. <a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your project and find the ideal material and design solution for your rubber parts.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn the ins and outs of rubber seals for medical devices and how Primo Rubber Co. can help you with your rubber needs]]></summary></entry><entry><title type="html">Designing Custom Rubber Bushings for Off-Road Suspension: Durometer, Void Patterns, and Torsional Behavior</title><link href="http://localhost:4000/blog/2025/11/15/custom-rubber-bushings-for-offroad-suspension.html" rel="alternate" type="text/html" title="Designing Custom Rubber Bushings for Off-Road Suspension: Durometer, Void Patterns, and Torsional Behavior" /><published>2025-11-15T00:00:00-07:00</published><updated>2025-11-15T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/15/custom-rubber-bushings-for-offroad-suspension</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/15/custom-rubber-bushings-for-offroad-suspension.html"><![CDATA[<p>Rubber bushings may look simple, but in <strong>off-road suspension systems</strong> they play a critical role in handling, ride quality, NVH reduction, and component longevity. Unlike on-road vehicles, off-road builds subject bushings to <strong>high angular displacement, grit abrasion, torsional loading, and extreme compression cycles</strong>.</p>
+
+<p>This guide from <strong>Primo Rubber Co.</strong> breaks down how to design custom rubber bushings optimized specifically for off-road use—with a focus on <em>durometer</em>, <em>void patterns</em>, and <em>torsional behavior</em>.</p>
+
+<hr />
+
+<h2 id="why-off-road-bushings-need-different-design-considerations">Why Off-Road Bushings Need Different Design Considerations</h2>
+
+<p>Off-road environments introduce demands that stock or generic bushings rarely meet:</p>
+
+<ul>
+  <li><strong>Higher angular misalignment</strong></li>
+  <li><strong>Larger amplitude shock loads</strong></li>
+  <li><strong>Constant exposure to mud, water, and abrasive grit</strong></li>
+  <li><strong>Greater torsional twist during articulation</strong></li>
+  <li><strong>Increased compression/decompression cycling</strong></li>
+</ul>
+
+<p>As a result, the compound and geometry need to be tailored—not just selected from a catalog.</p>
+
+<hr />
+
+<h2 id="choosing-the-correct-durometer-hardness">Choosing the Correct Durometer (Hardness)</h2>
+
+<p>The <strong>durometer</strong> of a rubber bushing determines how it balances compliance and control.</p>
+
+<h3 id="typical-durometer-ranges">Typical durometer ranges:</h3>
+
+<ul>
+  <li><strong>50–60 Shore A</strong> → Maximum articulation and comfort</li>
+  <li><strong>65–75 Shore A</strong> → Balanced on/off-road performance</li>
+  <li><strong>80+ Shore A</strong> → High control, reduced movement, but harsher ride</li>
+</ul>
+
+<h3 id="off-road-considerations">Off-road considerations</h3>
+
+<ol>
+  <li><strong>Higher durometer reduces deformation</strong>, which helps handle heavy impacts without tearing.</li>
+  <li><strong>Too high of a durometer increases stress on mounting tabs and arms</strong>, potentially causing metal fatigue.</li>
+  <li>For extreme rock crawling or overlanding, a <strong>two-durometer (dual-hardness) design</strong> can give compliance on the outside with stiffness at the core.</li>
+</ol>
+
+<hr />
+
+<h2 id="designing-void-patterns-for-controlled-flex">Designing Void Patterns for Controlled Flex</h2>
+
+<p>Void patterns are one of the most powerful tools for tuning a bushing’s performance. By shaping empty spaces inside the rubber mass, you can create <em>directional compliance</em>—soft in one axis, stiff in another.</p>
+
+<h3 id="common-void-pattern-strategies">Common void pattern strategies:</h3>
+
+<ul>
+  <li><strong>Radial slots</strong> for smoother vertical compression</li>
+  <li><strong>Asymmetric cutouts</strong> for directional stiffness</li>
+  <li><strong>Triangular or trapezoid voids</strong> for progressive deformation</li>
+  <li><strong>Helical voids</strong> for enhanced torsional flexibility</li>
+</ul>
+
+<h3 id="for-off-road-applications">For off-road applications:</h3>
+
+<ul>
+  <li>Use <strong>larger voids around the vertical axis</strong> to absorb hits and reduce metal-to-metal stress.</li>
+  <li>Use <strong>smaller or closed voids horizontally</strong> to maintain steering accuracy and reduce wheel-hop.</li>
+  <li>A <strong>fully bonded inner sleeve</strong> helps maintain alignment even under severe articulation.</li>
+</ul>
+
+<hr />
+
+<h2 id="understanding-torsional-behavior">Understanding Torsional Behavior</h2>
+
+<p>Off-road suspensions undergo significant <strong>twist</strong>—especially in solid-axle systems or long-travel independent setups.</p>
+
+<p>Rubber bushings resist torsion through:</p>
+
+<ul>
+  <li>Shear deformation of the rubber mass</li>
+  <li>Constraint from bonding to the inner/outer sleeves</li>
+  <li>The geometry defined by the inner diameter, outer diameter, and length</li>
+</ul>
+
+<h3 id="key-torsional-design-factors">Key torsional design factors:</h3>
+
+<ul>
+  <li><strong>Increasing length decreases torsional spring rate</strong>, allowing more twist</li>
+  <li><strong>Increasing outer diameter increases torsional stiffness</strong></li>
+  <li><strong>Bonded sleeves provide more consistent torsional response than unbonded designs</strong></li>
+  <li><strong>Chunky rubber cross-sections resist tearing but limit articulation</strong></li>
+</ul>
+
+<p>For rock-crawling or heavy-articulation builds, a <strong>soft torsional spring rate</strong> supports pivoting without over-stressing the control arms. For high-speed off-road racing, stiffer torsional response improves precision and reduces wheel-induced steering input.</p>
+
+<hr />
+
+<h2 id="material-selection-for-harsh-environments">Material Selection for Harsh Environments</h2>
+
+<p>The compound is just as important as the geometry. Off-road bushings should prioritize:</p>
+
+<ul>
+  <li><strong>NR or SBR blends</strong> for maximum resilience</li>
+  <li><strong>Polymer systems with anti-ozonants and wax bloom</strong> for UV and ozone resistance</li>
+  <li><strong>High-tear-resistant formulations</strong> for rock impacts</li>
+  <li><strong>Low-temperature flexibility</strong> for winter performance</li>
+</ul>
+
+<p>Primo Rubber Co. formulates custom compounds depending on the exact environment—mud, desert, rock, rally, or mixed use.</p>
+
+<hr />
+
+<h2 id="testing-and-validation">Testing and Validation</h2>
+
+<p>Custom bushings should be validated through:</p>
+
+<ul>
+  <li><strong>Finite element analysis (FEA)</strong> for torsional and compression loading</li>
+  <li><strong>Cyclic fatigue testing</strong></li>
+  <li><strong>Tear and tensile testing</strong> to validate compound selection</li>
+  <li><strong>Durometer drift and aging tests</strong></li>
+  <li><strong>Field testing on actual off-road vehicles</strong></li>
+</ul>
+
+<p>This ensures the bushing performs not just in theory, but in the messy, unpredictable real world.</p>
+
+<hr />
+
+<h2 id="need-custom-off-road-rubber-bushings">Need Custom Off-Road Rubber Bushings?</h2>
+
+<p>Primo Rubber Co. specializes in injection molding custom rubber components. <a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your project and find the ideal material and design solution for your rubber bushings.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn the ins and outs of rubber bushings for offroad applications and how Primo Rubber Co. can help you with your rubber needs]]></summary></entry><entry><title type="html">Designing Rubber Seals for Chemical Resistance in Hydraulic and Fuel Systems</title><link href="http://localhost:4000/blog/2025/11/14/designing-rubber-seals-for-chemical-resistance-in-hydraulic-and-fuel-systems.html" rel="alternate" type="text/html" title="Designing Rubber Seals for Chemical Resistance in Hydraulic and Fuel Systems" /><published>2025-11-14T00:00:00-07:00</published><updated>2025-11-14T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/14/designing-rubber-seals-for-chemical-resistance-in-hydraulic-and-fuel-systems</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/14/designing-rubber-seals-for-chemical-resistance-in-hydraulic-and-fuel-systems.html"><![CDATA[<p>In hydraulic, pneumatic, and fuel systems, <strong>rubber seals are critical to reliability</strong>. A single seal failure can lead to leaks, downtime, contamination, or even complete system failure.<br />
+One of the biggest challenges in these environments is <strong>chemical resistance</strong> — the ability of rubber materials to resist swelling, softening, or cracking when exposed to aggressive fluids.</p>
+
+<p>Designing seals that last requires understanding how different compounds behave under chemical exposure and how to pair that with the right design and curing process.</p>
+
+<h2 id="understanding-chemical-resistance-in-rubber">Understanding Chemical Resistance in Rubber</h2>
+
+<p>Rubber’s performance in chemical environments depends on its <strong>base polymer structure</strong> and <strong>crosslinking chemistry</strong>.<br />
+Hydrocarbons, oils, and fuels tend to attack certain rubbers, breaking down molecular bonds or extracting plasticizers.<br />
+Choosing the wrong compound can quickly lead to seal degradation, leaks, and maintenance headaches.</p>
+
+<p>When selecting materials, consider:</p>
+
+<ul>
+  <li>The <strong>type of fluid</strong> (hydraulic oil, brake fluid, fuel, coolant, etc.)</li>
+  <li><strong>Operating temperature range</strong></li>
+  <li><strong>Pressure and mechanical load</strong></li>
+  <li><strong>Exposure duration</strong> and <strong>chemical concentration</strong></li>
+</ul>
+
+<hr />
+
+<h2 id="common-rubber-materials-and-their-chemical-resistance">Common Rubber Materials and Their Chemical Resistance</h2>
+
+<p>Here’s how common elastomers perform in fuel and hydraulic applications:</p>
+
+<h3 id="nitrile-rubber-nbr"><strong>Nitrile Rubber (NBR)</strong></h3>
+
+<ul>
+  <li>Excellent resistance to <strong>petroleum oils, diesel, and hydraulic fluids</strong></li>
+  <li>Poor resistance to <strong>ozone, UV, and polar solvents</strong></li>
+  <li>Cost-effective and widely used for general hydraulic seals</li>
+</ul>
+
+<p><strong>Best for:</strong> hydraulic systems, oil seals, gaskets, O-rings</p>
+
+<h3 id="hydrogenated-nitrile-hnbr"><strong>Hydrogenated Nitrile (HNBR)</strong></h3>
+
+<ul>
+  <li>Improved temperature and ozone resistance over standard NBR</li>
+  <li>Withstands hot oils and aggressive fuels</li>
+  <li>Excellent balance of strength and flexibility</li>
+</ul>
+
+<p><strong>Best for:</strong> automotive fuel systems, power steering, and high-pressure hydraulics</p>
+
+<h3 id="fluorocarbon-fkm--viton"><strong>Fluorocarbon (FKM / Viton®)</strong></h3>
+
+<ul>
+  <li>Outstanding chemical resistance to <strong>fuels, solvents, and oils</strong></li>
+  <li>Performs well at temperatures up to 200°C</li>
+  <li>Resistant to compression set and long-term aging</li>
+</ul>
+
+<p><strong>Best for:</strong> fuel injectors, aerospace, and chemical process equipment</p>
+
+<h3 id="epdm-rubber"><strong>EPDM Rubber</strong></h3>
+
+<ul>
+  <li>Resistant to <strong>water, steam, brake fluids, and polar chemicals</strong></li>
+  <li><strong>Not compatible with oils or fuels</strong></li>
+  <li>Great for seals exposed to outdoor or water-based systems</li>
+</ul>
+
+<p><strong>Best for:</strong> brake systems, water-based hydraulic systems, outdoor gaskets</p>
+
+<h3 id="fluorosilicone-fvmq"><strong>Fluorosilicone (FVMQ)</strong></h3>
+
+<ul>
+  <li>Combines the flexibility of silicone with the fuel resistance of FKM</li>
+  <li>Excellent performance across a wide temperature range</li>
+  <li>More expensive but ideal for extreme environments</li>
+</ul>
+
+<p><strong>Best for:</strong> aerospace fuel systems and specialty seals</p>
+
+<h2 id="design-considerations-for-chemical-resistant-seals">Design Considerations for Chemical-Resistant Seals</h2>
+
+<p>Material choice is only part of the equation — design plays an equally critical role in seal longevity and performance.</p>
+
+<h3 id="1-account-for-swelling-and-compression-set"><strong>1. Account for Swelling and Compression Set</strong></h3>
+
+<p>Even resistant rubbers can swell slightly under long-term exposure.<br />
+Design grooves and clearances to tolerate this expansion without causing extrusion or sealing loss.</p>
+
+<h3 id="2-maintain-proper-compression"><strong>2. Maintain Proper Compression</strong></h3>
+
+<p>Under-compressed seals can leak; over-compressed ones may take a permanent set.<br />
+A 20–30% compression range is typical for most elastomers, depending on hardness.</p>
+
+<h3 id="3-optimize-seal-geometry"><strong>3. Optimize Seal Geometry</strong></h3>
+
+<p>Rounded corners, smooth transitions, and proper lip design help maintain sealing under dynamic conditions.<br />
+Avoid sharp edges or stress points where tearing can start.</p>
+
+<h3 id="4-consider-temperature-and-pressure-effects"><strong>4. Consider Temperature and Pressure Effects</strong></h3>
+
+<p>High temperatures accelerate chemical attack, while pressure cycles can cause extrusion or deformation.<br />
+Use backup rings or harder compounds for high-pressure applications.</p>
+
+<h2 id="primo-rubber-co-your-partner-in-chemical-resistant-rubber-seals">Primo Rubber Co.: Your Partner in Chemical-Resistant Rubber Seals</h2>
+
+<p>At <strong>Primo Rubber Co.</strong>, we specialize in <strong>custom rubber injection molding</strong> for high-performance sealing applications. Whether you’re designing a new hydraulic system or improving existing seals for longer life, our engineers can help you choose the <strong>right compound, geometry, and molding process</strong> to ensure chemical resistance and durability. All of our parts are <strong>manufactured in the USA</strong> under strict quality control, ensuring consistent, high-performance seals that last.</p>
+
+<p><a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your project and find the ideal material and design solution for your chemical-resistant rubber seals.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn how to choose the right rubber materials and design strategies for seals that withstand oils, fuels, and hydraulic fluids — with help from Primo Rubber Co.]]></summary></entry><entry><title type="html">How Temperature Cycling Affects Rubber Part Lifespan</title><link href="http://localhost:4000/blog/2025/11/13/how-temperature-cycling-affects-rubber-part-lifespan.html" rel="alternate" type="text/html" title="How Temperature Cycling Affects Rubber Part Lifespan" /><published>2025-11-13T00:00:00-07:00</published><updated>2025-11-13T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/13/how-temperature-cycling-affects-rubber-part-lifespan</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/13/how-temperature-cycling-affects-rubber-part-lifespan.html"><![CDATA[<p>Rubber components used in industrial, automotive, and outdoor environments are constantly exposed to temperature swings — sometimes from sub-zero mornings to scorching operating temperatures within minutes. These repeated changes, known as <strong>temperature cycling</strong>, cause rubber to expand, contract, harden, soften, and eventually break down. If your rubber parts are failing earlier than expected, temperature cycling is often a major contributor.</p>
 
 <p>In this post, we’ll break down <em>why</em> temperature cycling affects rubber so strongly, what symptoms to look out for, and how smart material selection and design can greatly extend part lifespan.</p>
 
@@ -247,799 +1619,4 @@ That’s why we focus on:</p>
 
 <p>At <strong>Primo Rubber Co.</strong>, we combine material expertise, advanced molding equipment, and disciplined process control to deliver rubber parts that meet your exact specifications — every time.</p>
 
-<p><a href="/#Contact"><strong>Contact us today</strong></a> to learn how we can help you improve part quality and reduce post-processing costs with precision rubber molding.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn what causes flash in rubber injection molding, how to control part tolerances, and how Primo Rubber Co. ensures high-quality, precision-molded rubber parts.]]></summary></entry><entry><title type="html">Custom EPDM Gaskets for Outdoor Electrical Enclosures: What to Know Before You Order</title><link href="http://localhost:4000/blog/2025/11/12/custom-edpm-gasket-for-outdoor-electrical-enclosures.html" rel="alternate" type="text/html" title="Custom EPDM Gaskets for Outdoor Electrical Enclosures: What to Know Before You Order" /><published>2025-11-12T00:00:00-07:00</published><updated>2025-11-12T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/12/custom-edpm-gasket-for-outdoor-electrical-enclosures</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/12/custom-edpm-gasket-for-outdoor-electrical-enclosures.html"><![CDATA[<p>If you design or maintain <strong>outdoor electrical enclosures</strong>, you already know how critical the gasket is.<br />
-It’s the unsung hero that keeps out water, dust, UV radiation, and temperature extremes — ensuring reliability year after year.</p>
-
-<p>But not all gaskets are created equal. Choosing the wrong rubber material or profile can lead to leaks, premature cracking, or loss of compression set, putting your entire system at risk.</p>
-
-<p>That’s where <strong>EPDM</strong> and <strong>custom manufacturing</strong> come in.</p>
-
-<h2 id="why-epdm-is-the-go-to-for-outdoor-gaskets">Why EPDM Is the Go-To for Outdoor Gaskets</h2>
-
-<p><strong>EPDM (Ethylene Propylene Diene Monomer)</strong> is one of the most weather-resistant rubber compounds available. It’s engineered to handle <strong>UV exposure, ozone, moisture, and temperature swings</strong> without breaking down — which is exactly what outdoor enclosures face daily.</p>
-
-<p><strong>Key advantages of EPDM rubber include:</strong></p>
-
-<ul>
-  <li>Excellent <strong>UV and ozone resistance</strong> (unlike natural rubber, which cracks outdoors)</li>
-  <li>Wide <strong>temperature range</strong>: typically -40°C to +120°C</li>
-  <li>Outstanding <strong>water sealing and electrical insulation</strong></li>
-  <li>Good <strong>compression set resistance</strong>, maintaining seal integrity over time</li>
-  <li>Resistant to <strong>mild chemicals and acids</strong></li>
-</ul>
-
-<p>Because of these traits, EPDM is used across <strong>solar power, telecom, HVAC, marine, and electrical distribution</strong> industries — anywhere a reliable outdoor seal is required.</p>
-
-<h2 id="the-importance-of-compression-set-resistance">The Importance of Compression Set Resistance</h2>
-
-<p>In long-term gasket performance, the most common failure mode isn’t cracking — it’s <strong>compression set</strong>.<br />
-That’s when the rubber permanently flattens out after being compressed for months or years, reducing its ability to maintain a seal.</p>
-
-<p>EPDM’s molecular structure gives it excellent resilience, allowing it to <strong>spring back</strong> after repeated compression.<br />
-When combined with the right durometer (typically 50–70 Shore A for enclosure gaskets), it maintains sealing pressure even after long-term use.</p>
-
-<h2 id="gasket-design-considerations">Gasket Design Considerations</h2>
-
-<p>When designing a gasket for outdoor enclosures, pay attention to the following:</p>
-
-<h3 id="1-cross-section-and-profile">1. <strong>Cross-Section and Profile</strong></h3>
-
-<p>Common shapes include <strong>D-shape</strong>, <strong>P-shape</strong>, and <strong>bulb seals</strong>.<br />
-For custom enclosures, a <strong>molded continuous gasket</strong> (rather than extruded and joined) often provides the most reliable, leak-free seal.</p>
-
-<h3 id="2-mounting-method">2. <strong>Mounting Method</strong></h3>
-
-<p>Decide how the gasket will attach:</p>
-
-<ul>
-  <li><strong>Adhesive-backed</strong> for easy installation</li>
-  <li><strong>Push-in</strong> styles for groove-mounted seals</li>
-  <li><strong>Bonded-in-place</strong> gaskets for precision or permanent applications</li>
-</ul>
-
-<h3 id="3-durometer-and-fit">3. <strong>Durometer and Fit</strong></h3>
-
-<p>A softer rubber improves sealing on uneven surfaces, while harder rubbers handle higher compression forces.<br />
-Testing with prototypes ensures the right balance of <strong>compression and rebound</strong>.</p>
-
-<h3 id="4-environmental-exposure">4. <strong>Environmental Exposure</strong></h3>
-
-<p>Consider long-term exposure to:</p>
-
-<ul>
-  <li>Direct sunlight and ozone</li>
-  <li>Standing water or humidity</li>
-  <li>Industrial pollutants or salt spray</li>
-</ul>
-
-<p>EPDM performs best here, but specialized coatings or blends can add even more protection when needed.</p>
-
-<h2 id="custom-molding-vs-extrusion">Custom Molding vs. Extrusion</h2>
-
-<p>Many enclosure gaskets are <strong>extruded</strong>, but if your design involves:</p>
-
-<ul>
-  <li>Corners that must be sealed perfectly</li>
-  <li>Irregular cross-sections</li>
-  <li>Unique mounting features</li>
-</ul>
-
-<p>Then <strong>custom rubber injection molding</strong> is the better choice.<br />
-Molded gaskets eliminate seams, improve dimensional accuracy, and provide consistent performance across production runs.</p>
-
-<p>At <strong>Primo Rubber Co.</strong>, we specialize in <strong>custom molded EPDM components</strong> that fit precisely and perform under harsh conditions.</p>
-
-<h2 id="why-work-with-a-us-based-manufacturer">Why Work with a U.S.-Based Manufacturer</h2>
-
-<p>Sourcing gaskets overseas can be tempting, but when it comes to critical sealing parts, quality and turnaround time matter more than pennies per part.</p>
-
-<p>With <strong>Primo Rubber Co.</strong>, you get:</p>
-
-<ul>
-  <li><strong>Domestic production</strong> and faster lead times</li>
-  <li>Access to experienced engineers who understand your application</li>
-  <li>Consistent quality and traceability</li>
-  <li>Material testing and formulation options for your exact environment</li>
-</ul>
-
-<p>We don’t just ship parts — we partner with you to ensure your enclosures stay sealed and reliable for years.</p>
-
-<h2 id="seal-it-right-the-first-time">Seal It Right the First Time</h2>
-
-<p>A gasket might seem like a small detail, but in outdoor electrical systems, it’s the line between reliability and failure.</p>
-
-<p>At <strong>Primo Rubber Co.</strong>, we design and mold <strong>custom EPDM gaskets</strong> that hold up to the elements.<br />
-Whether you need a new design or a drop-in replacement for an existing seal, our U.S.-based team can help you build a better, longer-lasting part.</p>
-
-<p><a href="/#Contact"><strong>Contact us today</strong></a> to discuss your custom EPDM gasket project — and seal your enclosures with confidence.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn why EPDM rubber is ideal for outdoor electrical enclosure gaskets, how to design them for performance, and how Primo Rubber Co. can help manufacture custom parts.]]></summary></entry><entry><title type="html">Why Your Rubber-to-Metal Bond Keeps Failing (and How to Fix It)</title><link href="http://localhost:4000/blog/2025/11/12/why-rubber-to-metal-bond-keeps-failing.html" rel="alternate" type="text/html" title="Why Your Rubber-to-Metal Bond Keeps Failing (and How to Fix It)" /><published>2025-11-12T00:00:00-07:00</published><updated>2025-11-12T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/12/why-rubber-to-metal-bond-keeps-failing</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/12/why-rubber-to-metal-bond-keeps-failing.html"><![CDATA[<p>Rubber-to-metal bonding is one of the toughest challenges in molding. When done right, the result is a single, unified component that can handle vibration, load, and stress for years. But when the bond fails, it’s almost always catastrophic — parts separate, mounts crack, and equipment breaks down.</p>
-
-<p>If you’ve ever had a <strong>rubber-to-metal bonded part</strong> delaminate, peel, or lose adhesion, this guide will walk you through the <strong>most common causes</strong> — and how to prevent them.</p>
-
-<h2 id="understanding-the-rubber-to-metal-bond">Understanding the Rubber-to-Metal Bond</h2>
-
-<p>Bonding rubber to metal isn’t like gluing two surfaces together. The process creates a <strong>chemical and mechanical bond</strong> during vulcanization — when rubber cures under heat and pressure.</p>
-
-<p>A bonding agent system (usually a two-layer primer and adhesive) chemically fuses the rubber compound to the metal substrate.<br />
-For the bond to last, <strong>each step</strong> — from metal prep to molding — must be perfectly controlled.</p>
-
-<h2 id="1-inadequate-metal-surface-preparation">1. Inadequate Metal Surface Preparation</h2>
-
-<p>Most bond failures start with poor surface prep.</p>
-
-<p>Any <strong>oil, rust, or oxide</strong> layer on the metal prevents proper adhesion. The surface needs to be:</p>
-
-<ul>
-  <li><strong>Grit blasted</strong> or sandblasted to remove scale and create texture</li>
-  <li><strong>Thoroughly cleaned and degreased</strong> to eliminate contaminants</li>
-  <li><strong>Handled with gloves</strong> to avoid fingerprints or recontamination</li>
-</ul>
-
-<p>Even a tiny spot of oil or dust can cause a bubble or delamination point that spreads under stress.</p>
-
-<p>At <strong>Primo Rubber Co.</strong>, we use controlled blasting and cleaning procedures to ensure every surface is perfectly prepared before priming.</p>
-
-<h2 id="2-incorrect-primer-or-adhesive-application">2. Incorrect Primer or Adhesive Application</h2>
-
-<p>Bonding systems are usually <strong>two-layer coatings</strong> — a base primer and a top adhesive.<br />
-If these layers are too thick, too thin, or uneven, the bond strength suffers.</p>
-
-<p>Common issues include:</p>
-
-<ul>
-  <li>Primer not fully dried before adhesive application</li>
-  <li>Improper adhesive thickness (usually target is 0.0002–0.0005”)</li>
-  <li>Expired or improperly stored adhesives</li>
-  <li>Skipped pre-bake or preheat steps on metal inserts</li>
-</ul>
-
-<p>Always follow the adhesive manufacturer’s specs exactly — cure times, mixing ratios, and ambient humidity all matter.</p>
-
-<h2 id="3-contamination-during-molding">3. Contamination During Molding</h2>
-
-<p>Even perfect prep can fail if contamination happens during molding.</p>
-
-<p>Possible culprits include:</p>
-
-<ul>
-  <li><strong>Mold release agents</strong> that transfer onto the metal surface</li>
-  <li><strong>Silicone spray overspray</strong> or airborne oils in the molding area</li>
-  <li><strong>Improper part handling</strong> before or during molding</li>
-</ul>
-
-<p>The key is <strong>process discipline</strong> — once an insert is prepped and primed, it should go straight to molding or be kept in a clean, controlled area.</p>
-
-<h2 id="4-incompatible-rubber-compound">4. Incompatible Rubber Compound</h2>
-
-<p>Some rubber compounds bond naturally better than others.</p>
-
-<p>For example:</p>
-
-<ul>
-  <li><strong>Natural rubber</strong> and <strong>Neoprene</strong> bond well with most adhesives.</li>
-  <li><strong>EPDM</strong> and <strong>Silicone</strong> require specialized bonding systems.</li>
-  <li>Compounds with <strong>high wax or plasticizer content</strong> can cause surface migration that weakens the bond.</li>
-</ul>
-
-<p>The adhesive and compound must be selected together — not as an afterthought.</p>
-
-<h2 id="5-improper-curing-or-mold-conditions">5. Improper Curing or Mold Conditions</h2>
-
-<p>Temperature and pressure are critical during molding.<br />
-If the part is <strong>undercured</strong>, the rubber won’t fully crosslink to the adhesive.<br />
-If it’s <strong>overcured</strong>, the bond may degrade at the interface.</p>
-
-<p>Typical issues:</p>
-
-<ul>
-  <li>Uneven mold temperature zones</li>
-  <li>Short cure cycles to reduce cycle time</li>
-  <li>Trapped air pockets or insufficient venting</li>
-</ul>
-
-<p>Proper tooling design and consistent press settings are the only way to guarantee repeatable bond quality.</p>
-
-<h2 id="6-service-conditions-beyond-design-limits">6. Service Conditions Beyond Design Limits</h2>
-
-<p>Sometimes the problem isn’t in manufacturing — it’s in the field.</p>
-
-<p>Bonded parts can fail from:</p>
-
-<ul>
-  <li>Excessive shear or tensile stress beyond design specs</li>
-  <li>Chemical attack from oils or solvents not accounted for</li>
-  <li>Temperature cycling that causes differential expansion between rubber and metal</li>
-</ul>
-
-<p>In these cases, redesigning the part or switching to a more suitable compound is the long-term fix.</p>
-
-<h2 id="partner-with-a-bonding-expert">Partner with a Bonding Expert</h2>
-
-<p>If your current supplier is struggling with bond quality or premature part failure, it might not be your design — it might be their process.</p>
-
-<p>Partner with <strong>Primo Rubber Co.</strong>, an American manufacturer specializing in <strong>precision rubber injection molding and rubber-to-metal bonding</strong>.<br />
-We help customers improve durability, reduce warranty issues, and achieve reliable performance — even in harsh environments.</p>
-
-<p><a href="/#Contact"><strong>Contact us today</strong></a> to discuss your next bonded part project.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn the common causes of rubber-to-metal bond failure and how to fix them. Improve adhesion and part durability with tips from Primo Rubber Co.]]></summary></entry><entry><title type="html">How to Design Rubber Vibration Mounts That Last in Harsh Industrial Environments</title><link href="http://localhost:4000/blog/2025/11/12/designing-rubber-vibration-mounts-industrial.html" rel="alternate" type="text/html" title="How to Design Rubber Vibration Mounts That Last in Harsh Industrial Environments" /><published>2025-11-12T00:00:00-07:00</published><updated>2025-11-12T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/12/designing-rubber-vibration-mounts-industrial</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/12/designing-rubber-vibration-mounts-industrial.html"><![CDATA[<p>When industrial equipment runs day after day under heavy loads, vibration is inevitable. But when vibration mounts fail — cracking, delaminating, or hardening — they can cause serious damage to machinery, reduce product lifespan, and increase downtime.</p>
-
-<p>Designing <strong>rubber vibration mounts</strong> that last in tough conditions requires more than just picking a rubber compound. It’s about balancing material science, geometry, and manufacturing precision.</p>
-
-<p>Here’s how to get it right — and how <strong>Primo Rubber Co.</strong> can help.</p>
-
-<h2 id="understanding-how-vibration-mounts-work">Understanding How Vibration Mounts Work</h2>
-
-<p>A vibration mount isolates motion between a vibrating source (like a motor or pump) and a rigid structure (like a frame or chassis). The rubber element absorbs and dissipates mechanical energy, protecting surrounding components from fatigue and wear.</p>
-
-<p>The ideal mount strikes a balance between <strong>stiffness and flexibility</strong>: soft enough to isolate vibration, yet strong enough to handle static loads without deformation or creep.</p>
-
-<h2 id="1-choose-the-right-rubber-compound">1. Choose the Right Rubber Compound</h2>
-
-<p>Your compound choice is the foundation of your mount’s performance. In industrial environments, rubber must resist heat, oil, ozone, and constant mechanical stress.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Compound</th>
-      <th>Best For</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Natural Rubber (NR)</strong></td>
-      <td>Excellent dynamic properties</td>
-      <td>Ideal for vibration absorption but limited chemical resistance</td>
-    </tr>
-    <tr>
-      <td><strong>Neoprene (CR)</strong></td>
-      <td>Oil and ozone resistance</td>
-      <td>Great all-purpose choice for machinery and HVAC</td>
-    </tr>
-    <tr>
-      <td><strong>Nitrile (NBR)</strong></td>
-      <td>Oil and fuel resistance</td>
-      <td>Excellent for hydraulic or engine-mounted systems</td>
-    </tr>
-    <tr>
-      <td><strong>EPDM</strong></td>
-      <td>Weather and ozone resistance</td>
-      <td>Perfect for outdoor or high-UV environments</td>
-    </tr>
-    <tr>
-      <td><strong>Silicone</strong></td>
-      <td>Extreme temperature stability</td>
-      <td>Suitable for both hot and cold conditions</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>If the mount will be exposed to oils, fuels, or chemicals, avoid natural rubber. If it’s outdoors or near ozone sources, EPDM or Neoprene are better options.</p>
-
-<h2 id="2-optimize-the-geometry">2. Optimize the Geometry</h2>
-
-<p>The shape of a vibration mount directly affects how it performs under load.</p>
-
-<ul>
-  <li><strong>Conical mounts</strong> handle both compression and shear — good for engines and compressors.</li>
-  <li><strong>Cylindrical mounts</strong> excel in shear loading and are easier to manufacture.</li>
-  <li><strong>Bonded sandwich mounts</strong> (metal-rubber-metal) are ideal for higher loads or multidirectional vibration.</li>
-</ul>
-
-<p>During design, ensure:</p>
-
-<ul>
-  <li>Uniform stress distribution across the rubber section</li>
-  <li>Adequate bonding surface area if bonded to metal</li>
-  <li>Clearance for compression and rebound movement</li>
-</ul>
-
-<h2 id="3-dont-overlook-the-rubber-to-metal-bond">3. Don’t Overlook the Rubber-to-Metal Bond</h2>
-
-<p>If your mount includes a steel or aluminum plate, <strong>bond integrity</strong> is often the failure point.</p>
-
-<p>Proper bonding depends on:</p>
-
-<ul>
-  <li><strong>Surface prep:</strong> Grit-blasting and degreasing the metal for maximum adhesion</li>
-  <li><strong>Primer system:</strong> Two-layer adhesive coatings designed for rubber-to-metal bonding</li>
-  <li><strong>Cure conditions:</strong> Correct temperature and pressure during molding to ensure full chemical crosslinking</li>
-</ul>
-
-<h2 id="4-account-for-environmental-factors">4. Account for Environmental Factors</h2>
-
-<p>Temperature swings, UV exposure, and fluid contact all degrade rubber over time.<br />
-When designing mounts for <strong>harsh industrial environments</strong>, consider:</p>
-
-<ul>
-  <li><strong>Operating temperature range</strong> (both continuous and peak)</li>
-  <li><strong>Exposure to lubricants, coolants, or solvents</strong></li>
-  <li><strong>Outdoor conditions</strong> like ozone and sunlight</li>
-  <li><strong>Load cycles per day</strong> — static compression and dynamic shear fatigue</li>
-</ul>
-
-<p>Selecting the right compound and design early can double or triple the service life of your mount.</p>
-
-<h2 id="5-validate-with-testing">5. Validate with Testing</h2>
-
-<p>Testing ensures the mount performs as intended in the field. Common validation steps include:</p>
-
-<ul>
-  <li><strong>Dynamic fatigue testing</strong> to measure vibration damping and spring rate stability</li>
-  <li><strong>Tensile and shear strength testing</strong> for bonded assemblies</li>
-  <li><strong>Compression set testing</strong> to confirm resilience over time</li>
-</ul>
-
-<p>At Primo Rubber Co., we can partner with customers to test prototype mounts before full production — ensuring long-term reliability before a single unit hits the field.</p>
-
-<h2 id="built-for-harsh-conditions">Built for Harsh Conditions</h2>
-
-<p>Whether it’s a <strong>generator mount</strong>, <strong>compressor isolator</strong>, or <strong>industrial machinery bushing</strong>, the key to durability is understanding both the material and the environment.</p>
-
-<p>At <strong>Primo Rubber Co.</strong>, we specialize in <strong>custom rubber injection molding</strong>. If you’re tired of mounts failing early or suppliers missing quality marks, <a href="/#Contact"><strong>contact us today</strong></a> to start designing a mount that lasts.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn how to design long-lasting rubber vibration mounts for heavy-duty and industrial equipment. Material selection, bonding, and design tips from Primo Rubber Co.]]></summary></entry><entry><title type="html">Rubber vs. Plastic: When to Choose Rubber for Your Parts</title><link href="http://localhost:4000/blog/2025/11/11/rubber-vs-plastic-when-to-choose-rubber-for-your-parts.html" rel="alternate" type="text/html" title="Rubber vs. Plastic: When to Choose Rubber for Your Parts" /><published>2025-11-11T00:00:00-07:00</published><updated>2025-11-11T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/11/rubber-vs-plastic-when-to-choose-rubber-for-your-parts</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/11/rubber-vs-plastic-when-to-choose-rubber-for-your-parts.html"><![CDATA[<p>When designing a new product, one of the first decisions engineers face is choosing between <strong>rubber and plastic</strong>. Both materials can be molded into complex shapes, both are cost-effective, and both can be tailored to a wide range of applications.</p>
-
-<p>But in certain situations — especially when <strong>flexibility, sealing, or vibration resistance</strong> are critical — rubber is the clear winner. In this post, we’ll compare rubber and plastic, explore their advantages and limitations, and explain when choosing rubber makes the most sense.</p>
-
-<h2 id="the-key-differences-between-rubber-and-plastic">The Key Differences Between Rubber and Plastic</h2>
-
-<p>At a basic level, <strong>rubber is elastic</strong> while <strong>plastic is rigid</strong>. That single difference affects almost every aspect of performance.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Property</th>
-      <th>Rubber</th>
-      <th>Plastic</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Flexibility</strong></td>
-      <td>Highly elastic and returns to original shape</td>
-      <td>Typically rigid, limited flexibility</td>
-    </tr>
-    <tr>
-      <td><strong>Sealing Ability</strong></td>
-      <td>Excellent — conforms to surfaces</td>
-      <td>Poor — relies on tight tolerances</td>
-    </tr>
-    <tr>
-      <td><strong>Temperature Range</strong></td>
-      <td>Performs well in heat and cold</td>
-      <td>Can become brittle or deform</td>
-    </tr>
-    <tr>
-      <td><strong>Vibration Damping</strong></td>
-      <td>Absorbs shock and vibration</td>
-      <td>Transmits vibration</td>
-    </tr>
-    <tr>
-      <td><strong>Chemical Resistance</strong></td>
-      <td>Depends on compound</td>
-      <td>Depends on resin type</td>
-    </tr>
-    <tr>
-      <td><strong>Cost</strong></td>
-      <td>Slightly higher per part</td>
-      <td>Often lower in high-volume runs</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>The right choice depends on how your part needs to function under real-world conditions.</p>
-
-<h2 id="when-to-choose-rubber-over-plastic">When to Choose Rubber Over Plastic</h2>
-
-<p>Rubber has unique properties that make it ideal for applications requiring <strong>movement, sealing, or energy absorption</strong>. Here are a few examples:</p>
-
-<h3 id="1-when-you-need-flexibility">1. <strong>When You Need Flexibility</strong></h3>
-
-<p>Rubber stretches and compresses without breaking. This makes it perfect for seals, gaskets, hoses, and vibration mounts — parts that need to flex repeatedly or maintain contact under pressure.</p>
-
-<h3 id="2-when-you-need-sealing-or-isolation">2. <strong>When You Need Sealing or Isolation</strong></h3>
-
-<p>Rubber conforms to irregular surfaces and maintains an airtight or watertight seal. That’s why it’s used in <strong>valves, o-rings, and housing gaskets</strong> where even the smallest leak can cause major issues.</p>
-
-<h3 id="3-when-you-need-vibration-damping">3. <strong>When You Need Vibration Damping</strong></h3>
-
-<p>Rubber naturally absorbs energy, reducing noise and vibration in machinery, vehicles, and equipment. Plastic parts, by contrast, tend to transmit vibration and wear out faster in dynamic environments.</p>
-
-<h3 id="4-when-you-need-temperature-or-chemical-resistance">4. <strong>When You Need Temperature or Chemical Resistance</strong></h3>
-
-<p>Specialized rubber compounds (like <strong>EPDM, Nitrile, or Viton</strong>) can withstand extreme heat, cold, and chemical exposure that would quickly degrade most plastics.</p>
-
-<h3 id="5-when-you-need-a-softer-touch">5. <strong>When You Need a Softer Touch</strong></h3>
-
-<p>Rubber is ideal for <strong>grips, handles, and bumpers</strong>, offering a soft-touch feel and improved ergonomics that plastic can’t replicate.</p>
-
-<h2 id="when-plastic-may-be-a-better-option">When Plastic May Be a Better Option</h2>
-
-<p>In some cases, plastic is still the right choice — particularly when you need:</p>
-
-<ul>
-  <li><strong>High structural rigidity</strong></li>
-  <li><strong>Very tight dimensional tolerances</strong></li>
-  <li><strong>Transparent or decorative parts</strong></li>
-  <li><strong>Extreme wear resistance under dry conditions</strong></li>
-</ul>
-
-<p>Plastics are also better for <strong>ultra-high-volume production</strong> when cost per part is the primary concern.</p>
-
-<h2 id="hybrid-designs--the-best-of-both-worlds">Hybrid Designs — The Best of Both Worlds</h2>
-
-<p>Some of the most effective designs combine <strong>rubber and plastic (or metal)</strong> through <strong>overmolding</strong>. This process creates a strong, durable part with a rigid core and a soft, functional exterior.</p>
-
-<p>For example:</p>
-
-<ul>
-  <li>A <strong>plastic handle</strong> with a <strong>rubber grip</strong></li>
-  <li>A <strong>metal insert</strong> with a <strong>rubber vibration isolator</strong></li>
-</ul>
-
-<p>This hybrid approach delivers strength where needed and flexibility where it matters most.</p>
-
-<h2 id="how-primo-rubber-co-can-help">How Primo Rubber Co. Can Help</h2>
-
-<p>At <strong>Primo Rubber Co.</strong>, we specialize in <strong>custom rubber injection molding</strong> and <strong>rubber-to-metal bonding</strong>, helping customers design parts that perform better and last longer.</p>
-
-<p>Our U.S.-based team can:</p>
-
-<ul>
-  <li>Help you determine if rubber is the right choice for you</li>
-  <li>Recommend the best rubber compound for your application</li>
-  <li>Produce high-quality, consistent parts with tight tolerances</li>
-</ul>
-
-<p>Whether you’re replacing a rigid plastic part that’s been failing or developing a new design from scratch, we can guide you through every step.</p>
-
-<h2 id="built-for-performance-built-in-the-usa">Built for Performance. Built in the USA.</h2>
-
-<p>Choosing the right material is one of the most important design decisions you’ll make. With <strong>Primo Rubber Co.</strong>, you’re not just getting parts — you’re getting decades of experience, technical expertise, and a partner committed to your success.</p>
-
-<p><a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your project and find out how the right rubber solution can make your parts stronger, longer-lasting, and more reliable.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Explore the differences between rubber and plastic, and learn when rubber is the better choice for your custom molded components.]]></summary></entry><entry><title type="html">Understanding Durometer — How Rubber Hardness Affects Performance</title><link href="http://localhost:4000/blog/2025/11/10/understanding-durometer-how-rubber-hardness-affects-performance.html" rel="alternate" type="text/html" title="Understanding Durometer — How Rubber Hardness Affects Performance" /><published>2025-11-10T00:00:00-07:00</published><updated>2025-11-10T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/10/understanding-durometer-how-rubber-hardness-affects-performance</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/10/understanding-durometer-how-rubber-hardness-affects-performance.html"><![CDATA[<p>When designing custom rubber parts, <strong>durometer</strong> is one of the most important — and often overlooked — properties to get right. The durometer of a rubber compound determines how soft or hard it feels, how it compresses, and how it performs under load.</p>
-
-<p>Choosing the wrong hardness can lead to seal failures, poor vibration control, or parts that simply don’t fit as intended. In this post, we’ll break down what durometer means, how it’s measured, and how it affects the performance of your rubber components.</p>
-
-<h2 id="what-is-durometer">What Is Durometer?</h2>
-
-<p><strong>Durometer</strong> is a measure of a material’s hardness — specifically, its resistance to indentation. It’s usually measured on the <strong>Shore hardness scale</strong>, which was developed to evaluate the hardness of elastomers and plastics.</p>
-
-<p>For most rubber materials, the <strong>Shore A scale</strong> is used. This scale ranges from:</p>
-
-<ul>
-  <li><strong>0 Shore A</strong> — extremely soft and flexible (like a rubber band)</li>
-  <li><strong>100 Shore A</strong> — very hard and rigid (similar to a shopping cart wheel)</li>
-</ul>
-
-<p>The measurement is taken using a <strong>durometer gauge</strong>, which presses a small indenter into the material’s surface under a standardized force. The depth of indentation determines the hardness reading.</p>
-
-<h2 id="why-durometer-matters">Why Durometer Matters</h2>
-
-<p>Rubber hardness plays a direct role in how a part performs under pressure, heat, and motion. A seal that’s too soft may compress too much and leak; one that’s too hard may fail to conform to its mating surface.</p>
-
-<p>Here’s how durometer impacts key performance areas:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Property</th>
-      <th>Soft Rubber (Lower Durometer)</th>
-      <th>Hard Rubber (Higher Durometer)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Compression &amp; Flexibility</strong></td>
-      <td>More flexible and easily deformed</td>
-      <td>Stiffer and resists compression</td>
-    </tr>
-    <tr>
-      <td><strong>Vibration Damping</strong></td>
-      <td>Better energy absorption</td>
-      <td>Lower damping capacity</td>
-    </tr>
-    <tr>
-      <td><strong>Abrasion Resistance</strong></td>
-      <td>Lower</td>
-      <td>Higher</td>
-    </tr>
-    <tr>
-      <td><strong>Tensile Strength</strong></td>
-      <td>Moderate</td>
-      <td>Generally higher</td>
-    </tr>
-    <tr>
-      <td><strong>Sealing Ability</strong></td>
-      <td>Excellent for uneven surfaces</td>
-      <td>Best for smooth, tight tolerances</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>In short: <strong>soft rubbers seal better</strong>, while <strong>harder rubbers last longer under load</strong>.</p>
-
-<h2 id="typical-durometer-ranges-by-material">Typical Durometer Ranges by Material</h2>
-
-<p>Each rubber material has its own hardness range and can be formulated to meet specific performance goals:</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Material</th>
-      <th>Typical Durometer Range (Shore A)</th>
-      <th>Common Applications</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Silicone</strong></td>
-      <td>30–80</td>
-      <td>Seals, gaskets, medical devices</td>
-    </tr>
-    <tr>
-      <td><strong>EPDM</strong></td>
-      <td>40–90</td>
-      <td>Outdoor seals, automotive weatherstripping</td>
-    </tr>
-    <tr>
-      <td><strong>Nitrile (Buna-N)</strong></td>
-      <td>40–90</td>
-      <td>Oil-resistant gaskets, hydraulic seals</td>
-    </tr>
-    <tr>
-      <td><strong>Neoprene</strong></td>
-      <td>30–90</td>
-      <td>Shock mounts, industrial seals</td>
-    </tr>
-    <tr>
-      <td><strong>FKM (Viton)</strong></td>
-      <td>60–95</td>
-      <td>High-temperature chemical-resistant seals</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>Selecting the right hardness is a balancing act between <strong>flexibility, strength, and durability</strong>.</p>
-
-<h2 id="design-considerations-for-rubber-hardness">Design Considerations for Rubber Hardness</h2>
-
-<p>When specifying durometer for your part, consider:</p>
-
-<ol>
-  <li><strong>Compression Set Resistance</strong> — A harder compound may resist deformation over time, but can also increase sealing pressure.</li>
-  <li><strong>Operating Environment</strong> — Heat, chemicals, and exposure to oil can change a material’s hardness over its lifespan.</li>
-  <li><strong>Mating Surface</strong> — Softer rubber is ideal when sealing against rough or uneven surfaces.</li>
-  <li><strong>Part Geometry</strong> — Thicker sections can feel stiffer even at the same durometer rating, while thinner walls may require harder materials to prevent collapse.</li>
-</ol>
-
-<p>Working with an experienced manufacturer can help you dial in the right hardness for your exact use case.</p>
-
-<h2 id="choosing-the-right-partner">Choosing the Right Partner</h2>
-
-<p>Selecting the correct durometer isn’t just about picking a number — it’s about understanding how your part will perform in the real world. The best results come from collaboration between designers, engineers, and manufacturers.</p>
-
-<h2 id="how-primo-rubber-co-can-help">How Primo Rubber Co. Can Help</h2>
-
-<p>At <strong>Primo Rubber Co.</strong>, we help customers <strong>optimize durometer selection</strong> for performance, cost, and manufacturability. Our team has extensive experience molding rubber parts across a full range of hardness levels and materials — from soft silicone gaskets to rigid, high-strength bushings.</p>
-
-<p>If you’re designing a new product or troubleshooting an existing one, we can help you choose and mold the right rubber compound for your needs.</p>
-
-<p><a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to learn more about our custom rubber molding capabilities and material options.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn what durometer means, how rubber hardness is measured, and how to choose the right durometer for your molded rubber parts.]]></summary></entry><entry><title type="html">How Rubber Is Bonded to Metal</title><link href="http://localhost:4000/blog/2025/11/09/how-rubber-is-bonded-to-metal-copy.html" rel="alternate" type="text/html" title="How Rubber Is Bonded to Metal" /><published>2025-11-09T00:00:00-07:00</published><updated>2025-11-09T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/09/how-rubber-is-bonded-to-metal%20copy</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/09/how-rubber-is-bonded-to-metal-copy.html"><![CDATA[<p>Rubber-to-metal bonding is a <strong>critical process</strong> in manufacturing durable components used in everything from automotive mounts to industrial vibration isolators. It combines the flexibility and sealing power of rubber with the strength and stability of metal — creating parts that can handle stress, temperature changes, and harsh environments.</p>
-
-<p>At <strong>Primo Rubber Co.</strong>, we specialize in creating <strong>strong, reliable rubber-to-metal bonds</strong> that perform consistently and stand the test of time. Here’s how the process works — and how the right manufacturing partner makes all the difference.</p>
-
-<h2 id="the-basics-of-rubber-to-metal-bonding">The Basics of Rubber-to-Metal Bonding</h2>
-
-<p>Rubber-to-metal bonding involves <strong>chemically and mechanically joining</strong> a rubber compound to a metal substrate during the molding process. Unlike simple gluing, the rubber and metal become permanently fused at the molecular level during vulcanization (the curing process).</p>
-
-<p>This creates a composite part where the rubber and metal act as one — ideal for applications that demand <strong>vibration isolation</strong>, <strong>shock absorption</strong>, <strong>fluid sealing</strong>, or <strong>structural reinforcement</strong>.</p>
-
-<h2 id="step-1-preparing-the-metal-surface">Step 1: Preparing the Metal Surface</h2>
-
-<p>The foundation of a strong bond starts with <strong>proper surface preparation</strong>. Any oil, rust, or dirt on the metal can prevent adhesion, so the substrate must be cleaned thoroughly. Common preparation steps include:</p>
-
-<ul>
-  <li><strong>Degreasing:</strong> Removes oils, coolants, or machining residues.</li>
-  <li><strong>Grit blasting:</strong> Roughens the surface for better mechanical adhesion.</li>
-  <li><strong>Chemical cleaning or etching:</strong> Improves surface energy and consistency.</li>
-</ul>
-
-<p>In some cases, the metal may also be <strong>phosphate coated</strong> or <strong>heat-treated</strong> to enhance adhesion and corrosion resistance.</p>
-
-<h2 id="step-2-applying-the-bonding-agent">Step 2: Applying the Bonding Agent</h2>
-
-<p>Once the surface is prepared, a <strong>specialized bonding agent</strong> (also called primer or adhesive system) is applied. This adhesive forms the critical bridge between the rubber and metal.</p>
-
-<p>Most rubber-to-metal adhesives are <strong>two-coat systems</strong>:</p>
-
-<ol>
-  <li><strong>Primer layer</strong> – adheres to the metal surface.</li>
-  <li><strong>Topcoat</strong> – bonds chemically with the rubber during vulcanization.</li>
-</ol>
-
-<p>The coated metal inserts are then dried or baked to remove solvents and activate the adhesive before molding.</p>
-
-<h2 id="step-3-molding-and-vulcanization">Step 3: Molding and Vulcanization</h2>
-
-<p>After adhesive application, the metal inserts are placed into a <strong>rubber injection mold</strong> or <strong>compression mold</strong>. Molten or semi-molten rubber is then injected under pressure, filling the cavities and surrounding the metal.</p>
-
-<p>As the rubber cures under <strong>heat and pressure</strong>, the adhesive forms a <strong>chemical bond</strong> between the rubber molecules and the metal substrate. The result is a single, integrated component that’s incredibly strong and durable — even under extreme stress or temperature.</p>
-
-<h2 id="step-4-inspection-and-testing">Step 4: Inspection and Testing</h2>
-
-<p>After molding, bonded parts are carefully inspected for:</p>
-
-<ul>
-  <li><strong>Bond coverage</strong> (complete adhesion over the desired surface)</li>
-  <li><strong>Pull or peel strength</strong> (measured through adhesion tests)</li>
-  <li><strong>Surface defects</strong> or contamination</li>
-</ul>
-
-<p>For critical applications, such as in automotive or industrial equipment, bonded parts may also undergo <strong>environmental testing</strong> — including thermal cycling, oil immersion, or vibration testing — to ensure long-term performance.</p>
-
-<h2 id="common-rubber-to-metal-applications">Common Rubber-to-Metal Applications</h2>
-
-<p>You’ll find bonded rubber-to-metal parts in nearly every industry, including:</p>
-
-<ul>
-  <li><strong>Automotive:</strong> engine mounts, suspension bushings, vibration dampers</li>
-  <li><strong>Industrial machinery:</strong> isolators, pump mounts, couplings</li>
-  <li><strong>Construction and heavy equipment:</strong> seals, shock absorbers, gaskets</li>
-  <li><strong>Aerospace and defense:</strong> antivibration mounts, fuel system seals</li>
-</ul>
-
-<p>These parts play an essential role in extending equipment life and improving performance.</p>
-
-<h2 id="how-primo-rubber-co-can-help">How Primo Rubber Co. Can Help</h2>
-
-<p>At <strong>Primo Rubber Co.</strong>, we bring years of experience in <strong>rubber injection molding</strong> and <strong>metal bonding technology</strong>. Our process ensures:</p>
-
-<ul>
-  <li><strong>Exceptional adhesion strength</strong> using proven bonding agents</li>
-  <li><strong>Precise molding control</strong> for consistent quality</li>
-  <li><strong>Broad material compatibility</strong>, including nitrile, EPDM, silicone, neoprene, and FKM</li>
-  <li><strong>Domestic production</strong>, giving you faster turnaround and easier communication</li>
-</ul>
-
-<p>Whether you need rubber bonded to <strong>steel, aluminum, brass, or specialty alloys</strong>, we can engineer a solution tailored to your performance and cost requirements.</p>
-
-<h2 id="partner-with-a-trusted-us-manufacturer">Partner with a Trusted U.S. Manufacturer</h2>
-
-<p>Rubber-to-metal bonding may seem simple, but it takes experience and attention to detail to get right. With <strong>Primo Rubber Co.</strong>, you get more than parts — you get a partner committed to quality, reliability, and long-term performance.</p>
-
-<p><a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to discuss your bonded part needs and discover how we can help you produce durable, high-quality rubber-to-metal components right here in the U.S.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn how rubber is bonded to metal through surface prep, adhesives, and molding — and how Primo Rubber Co. produces strong, lasting rubber-to-metal components.]]></summary></entry><entry><title type="html">How Tooling Design Affects the Quality of Rubber Molded Parts</title><link href="http://localhost:4000/blog/2025/11/08/tooling-design-and-quality.html" rel="alternate" type="text/html" title="How Tooling Design Affects the Quality of Rubber Molded Parts" /><published>2025-11-08T00:00:00-07:00</published><updated>2025-11-08T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/08/tooling-design-and-quality</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/08/tooling-design-and-quality.html"><![CDATA[<p>When it comes to rubber injection molding, the quality of the final part is determined long before the first shot is made — it starts with the <strong>tooling design</strong>. A well-designed mold ensures consistent dimensions, smooth surface finishes, and efficient production. Poor tooling design, on the other hand, can lead to flash, voids, uneven curing, or premature wear. Understanding how tooling affects part quality is key to achieving reliable, high-performance results.</p>
-
-<h2 id="precision-in-mold-cavities">Precision in Mold Cavities</h2>
-
-<p>The mold cavity defines the exact shape of your finished part. Even a tiny dimensional error can create big downstream issues. Tolerances in the thousandths of an inch matter — especially for seals, grommets, or other precision components. Properly machined cavities ensure your parts stay consistent across thousands of molding cycles.</p>
-
-<h2 id="gate-and-runner-design">Gate and Runner Design</h2>
-
-<p>The way molten rubber enters the mold determines how evenly it flows and cures. Poor gate placement can cause <strong>air traps</strong>, <strong>weld lines</strong>, or <strong>uneven fill</strong>, leading to cosmetic flaws or weak areas. Optimized gate and runner design ensures the rubber reaches every area of the mold evenly, reducing waste and improving cycle time.</p>
-
-<h2 id="venting-and-air-management">Venting and Air Management</h2>
-
-<p>Trapped air is one of the most common causes of defects in molded rubber parts. Well-designed venting channels allow gases to escape during injection and curing, preventing <strong>burn marks</strong>, <strong>voids</strong>, and <strong>incomplete fills</strong>. This is especially critical for parts with thin walls or intricate shapes.</p>
-
-<h2 id="temperature-control">Temperature Control</h2>
-
-<p>Rubber molding depends on precise heating and curing. Uneven mold temperatures can cause inconsistent hardness, shrinkage, or undercured regions. Smart heating and cooling channels within the mold help maintain stable process conditions — ensuring repeatable, high-quality results.</p>
-
-<h2 id="material-shrinkage-compensation">Material Shrinkage Compensation</h2>
-
-<p>Each rubber compound behaves differently during cooling and curing. Tooling must account for <strong>material shrinkage rates</strong> so that finished parts meet dimensional specs. Experienced mold designers balance these allowances based on the rubber formulation and part geometry.</p>
-
-<h2 id="durability-and-maintenance">Durability and Maintenance</h2>
-
-<p>Tooling materials and finishes have a direct impact on part quality and production uptime. Hardened steels and surface coatings reduce wear from abrasive compounds and extend mold life. Easy-to-clean vents and replaceable inserts help maintain consistent quality over long production runs.</p>
-
-<h2 id="partnering-with-experts-for-reliable-tooling">Partnering With Experts for Reliable Tooling</h2>
-
-<p>At <strong>Primo Rubber Co.</strong>, we know that the mold is the heart of the process. Our team collaborates closely with customers from the design stage to ensure every detail — from gate placement to venting — is optimized for performance, consistency, and cost-efficiency. Whether you need precision seals, vibration isolators, or custom gaskets, we make sure our tooling delivers dependable quality with every shot. <a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to learn more about our custom rubber molding capabilities and material options.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn how precision tooling design impacts the quality, consistency, and performance of rubber molded parts. Discover key factors in gating, venting, and temperature control.]]></summary></entry><entry><title type="html">Oil-Resistant Rubber Materials: What to Use for Automotive or Industrial Seals</title><link href="http://localhost:4000/blog/2025/11/07/oil-resistant-rubber-materials.html" rel="alternate" type="text/html" title="Oil-Resistant Rubber Materials: What to Use for Automotive or Industrial Seals" /><published>2025-11-07T00:00:00-07:00</published><updated>2025-11-07T00:00:00-07:00</updated><id>http://localhost:4000/blog/2025/11/07/oil-resistant-rubber-materials</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/07/oil-resistant-rubber-materials.html"><![CDATA[<p>When designing seals, gaskets, or hoses that come in contact with fuels, lubricants, or hydraulic fluids, <strong>oil resistance</strong> becomes one of the most important material properties. Not all rubber compounds are created equal — exposure to oils and hydrocarbons can cause swelling, softening, or complete material failure if the wrong compound is used.</p>
-
-<p>In this guide, we’ll cover the best <strong>oil-resistant rubber materials</strong>, their advantages, and how to choose the right one for your application.</p>
-
-<h2 id="why-oil-resistance-matters">Why Oil Resistance Matters</h2>
-
-<p>Oil exposure attacks rubber from the inside out. Petroleum-based fluids can dissolve or displace plasticizers in the compound, leading to:</p>
-
-<ul>
-  <li><strong>Swelling and loss of shape</strong></li>
-  <li><strong>Reduced tensile strength</strong></li>
-  <li><strong>Surface cracking or tackiness</strong></li>
-  <li><strong>Permanent deformation or leaks</strong></li>
-</ul>
-
-<p>In dynamic seals, these effects cause premature wear and loss of sealing pressure — which can mean downtime, contamination, or system failure. Choosing the right rubber compound helps prevent these costly problems.</p>
-
-<h2 id="nitrile-rubber-buna-n">Nitrile Rubber (Buna-N)</h2>
-
-<p><strong>Nitrile rubber (NBR)</strong> is the most widely used oil-resistant material. It performs exceptionally well in contact with petroleum oils, fuels, greases, and many hydraulic fluids.</p>
-
-<p><strong>Advantages:</strong></p>
-
-<ul>
-  <li>Excellent resistance to oil and fuel</li>
-  <li>Good abrasion and tear resistance</li>
-  <li>Available in a wide hardness range</li>
-  <li>Cost-effective for large production runs</li>
-</ul>
-
-<p><strong>Limitations:</strong></p>
-
-<ul>
-  <li>Poor resistance to ozone and UV</li>
-  <li>Not ideal for extreme temperatures (typically -30°F to +250°F)</li>
-</ul>
-
-<p><strong>Best For:</strong><br />
-Automotive seals, fuel hoses, oil-resistant grommets, and industrial gaskets.</p>
-
-<h2 id="hydrogenated-nitrile-hnbr">Hydrogenated Nitrile (HNBR)</h2>
-
-<p><strong>HNBR</strong> is a modified version of Nitrile that improves heat, ozone, and aging resistance while maintaining strong oil resistance.</p>
-
-<p><strong>Advantages:</strong></p>
-
-<ul>
-  <li>Higher temperature stability (up to 300°F)</li>
-  <li>Excellent resistance to oils and fuels</li>
-  <li>Improved mechanical strength and longevity</li>
-</ul>
-
-<p><strong>Limitations:</strong></p>
-
-<ul>
-  <li>Higher cost than standard Nitrile</li>
-  <li>Slightly reduced flexibility at low temperatures</li>
-</ul>
-
-<p><strong>Best For:</strong></p>
-
-<p>High-performance automotive seals, oilfield components, and industrial machinery exposed to heat and oil.</p>
-
-<h2 id="fluoroelastomers-viton--fkm">Fluoroelastomers (Viton® / FKM)</h2>
-
-<p><strong>Viton</strong> and other <strong>fluoroelastomers (FKM)</strong> offer the ultimate resistance to oils, fuels, and aggressive chemicals. They are ideal for extreme environments where both heat and chemical exposure are concerns.</p>
-
-<p><strong>Advantages:</strong></p>
-
-<ul>
-  <li>Excellent resistance to fuels, oils, and solvents</li>
-  <li>Handles continuous temperatures up to 400°F</li>
-  <li>Exceptional chemical resistance</li>
-</ul>
-
-<p><strong>Limitations:</strong></p>
-
-<ul>
-  <li>Higher material cost</li>
-  <li>Limited low-temperature flexibility</li>
-</ul>
-
-<p><strong>Best For:</strong></p>
-
-<p>Aerospace seals, high-performance automotive systems, and industrial sealing in harsh chemical environments.</p>
-
-<h2 id="other-oil-resistant-options">Other Oil-Resistant Options</h2>
-
-<ul>
-  <li><strong>Neoprene:</strong> Good for general-purpose oil and fuel resistance, though not as strong as Nitrile or Viton.</li>
-  <li><strong>Polyacrylate (ACM):</strong> Used in automotive transmission and engine seals for high-temperature oil resistance.</li>
-  <li><strong>EPDM:</strong> Poor oil resistance — best avoided in petroleum-based environments.</li>
-</ul>
-
-<h2 id="selecting-the-right-compound">Selecting the Right Compound</h2>
-
-<p>When choosing an oil-resistant rubber, consider:</p>
-
-<ul>
-  <li><strong>Temperature range</strong> of operation</li>
-  <li><strong>Type of oil or fuel</strong> (synthetic, mineral, bio-based, etc.)</li>
-  <li><strong>Pressure and mechanical stress</strong> on the part</li>
-  <li><strong>Exposure to ozone, UV, or outdoor conditions</strong></li>
-</ul>
-
-<p>Testing in real-world conditions is always recommended before full production.</p>
-
-<h2 id="trusted-rubber-solutions-from-primo-rubber-co">Trusted Rubber Solutions from Primo Rubber Co.</h2>
-
-<p>At <strong>Primo Rubber Co.</strong>, we specialize in <strong>custom rubber parts and seals</strong> that stand up to the toughest environments. Whether your application demands cost-effective Nitrile or high-performance Viton, our team helps you select and mold the right compound for long-lasting, oil-resistant performance. Partner with us to produce quality rubber components that you can rely on. <a href="/#Contact"><strong>Contact Primo Rubber Co. today</strong></a> to learn more about our custom rubber molding capabilities and material options.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn which rubber compounds offer the best oil and fuel resistance for automotive, industrial, and hydraulic sealing applications.]]></summary></entry></feed>
+<p><a href="/#Contact"><strong>Contact us today</strong></a> to learn how we can help you improve part quality and reduce post-processing costs with precision rubber molding.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Learn what causes flash in rubber injection molding, how to control part tolerances, and how Primo Rubber Co. ensures high-quality, precision-molded rubber parts.]]></summary></entry></feed>

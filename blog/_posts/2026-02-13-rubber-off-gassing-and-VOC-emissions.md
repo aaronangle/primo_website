@@ -1,7 +1,7 @@
 ---
 title: "Rubber Off-Gassing and VOC Emissions by Material Type: Choosing the Right Elastomer"
 description: "A material-focused guide from Primo Rubber Co. comparing VOC emissions and off-gassing characteristics of silicone, EPDM, NBR, FKM, butyl rubber, and other elastomers for sensitive applications."
-date: 2025-11-29
+date: 2026-02-12
 author: Primo Rubber Co.
 layout: post
 ---
@@ -12,9 +12,7 @@ While all elastomers can release small amounts of volatile compounds, **emission
 
 This guide from **Primo Rubber Co.** focuses specifically on how different rubber families compare when it comes to VOC release and long-term off-gassing.
 
----
-
-# What Causes Rubber to Off-Gas?
+## What Causes Rubber to Off-Gas?
 
 Emission levels depend on:
 
@@ -24,216 +22,69 @@ Emission levels depend on:
 - Post-cure process
 - Service temperature
 
-Now let’s break down the major elastomer families.
+## VOC Comparison by Rubber Type
 
----
-
-# VOC & Off-Gassing Comparison by Rubber Type
-
-## Silicone (VMQ / LSR)
+### Silicone (VMQ / LSR)
 
 **General emission profile:** Low (when properly post-cured)
 
-Silicone rubber is often chosen for low-VOC applications because:
+Silicone rubber is often chosen for low-VOC applications because it contains no plasticizers, has inherently stable polymer chains, performs well at high temperatures, and can be post-cured to remove residual volatiles. However, without proper post-curing, silicone can release residual siloxanes and cure byproducts
 
-- It contains no plasticizers
-- It has inherently stable polymer chains
-- It performs well at high temperatures
-- It can be post-cured to remove residual volatiles
-
-However, without proper post-curing, silicone can release:
-
-- Residual siloxanes
-- Cure byproducts
-
-### Best for:
-
-- Medical devices
-- Electronics
-- Optical assemblies
-- Automotive interiors
-- Sealed enclosures
-
-**Key tip:** Always specify _post-cured silicone_ for low-emission applications.
-
----
-
-## EPDM (Ethylene Propylene Diene Monomer)
+### EPDM (Ethylene Propylene Diene Monomer)
 
 **General emission profile:** Low to Moderate (formulation dependent)
 
-EPDM is widely used in automotive interiors and outdoor seals because:
+EPDM is widely used in automotive interiors and outdoor seals because it offers good chemical stability, does not require heavy plasticization, and provides strong resistance to ozone and UV exposure. However, its VOC performance depends heavily on factors such as the level of oil extension, the cure chemistry used, and the specific additive package included in the formulation. Low-VOC EPDM compounds are commonly available for interior automotive use.
 
-- It has good chemical stability
-- It does not require heavy plasticization
-- It resists ozone and UV
-
-However, VOC performance depends heavily on:
-
-- Oil extension level
-- Cure chemistry
-- Additive package
-
-Low-VOC EPDM compounds are commonly available for interior automotive use.
-
-### Best for:
-
-- Automotive weatherstripping
-- HVAC seals
-- Outdoor enclosures
-- Water-contact applications
-
----
-
-## NBR (Nitrile Rubber)
+### NBR (Nitrile Rubber)
 
 **General emission profile:** Moderate to High
 
-NBR often contains:
+NBR often contains processing oils and plasticizers to improve flexibility and workability, as well as sulfur cure residues that remain from the vulcanization process. Because nitrile is commonly oil-extended, it may produce noticeable odor or volatile emissions—especially in confined spaces. Hydrogenated NBR (HNBR) performs somewhat better but can still emit depending on formulation. Not typically ideal for odor-sensitive interior environments without special formulation.
 
-- Processing oils
-- Plasticizers
-- Sulfur cure residues
-
-Because nitrile is commonly oil-extended, it may produce noticeable odor or volatile emissions—especially in confined spaces.
-
-Hydrogenated NBR (HNBR) performs somewhat better but can still emit depending on formulation.
-
-### Best for:
-
-- Industrial environments
-- Oil and fuel systems (where VOC release is less critical)
-
-Not typically ideal for odor-sensitive interior environments without special formulation.
-
----
-
-## FKM (Fluoroelastomer)
+### FKM (Fluoroelastomer)
 
 **General emission profile:** Very Low (after proper cure)
 
-FKM materials are highly stable and chemically resistant. They:
+FKM materials are highly stable and chemically resistant. They are typically more expensive but offer excellent emission control. They have low volatile content, resist high temperatures and perform well in vacuum environments
 
-- Have low volatile content
-- Resist high temperatures
-- Perform well in vacuum environments
-
-Because of their stability, FKM elastomers are often used in:
-
-- Aerospace
-- Fuel systems
-- High-temp industrial sealing
-
-### Best for:
-
-- Vacuum systems
-- Aerospace cabins
-- High-temperature electronics
-- Chemical processing
-
-They are typically more expensive but offer excellent emission control.
-
----
-
-## Butyl Rubber (IIR)
+### Butyl Rubber (IIR)
 
 **General emission profile:** Very Low Permeability, Low to Moderate VOC (formulation dependent)
 
-Butyl rubber is unique because it has:
-
-- Extremely low gas permeability
-- Excellent sealing capability
-- Strong resistance to air diffusion
-
-This makes it ideal for applications where **gas containment is critical**.
-
-However, butyl can contain processing oils and additives that contribute to VOC emissions if not properly formulated.
-
-### Advantages:
-
-- Low gas transmission
-- Good chemical resistance
-- Strong damping properties
-
-### Best for:
-
-- Air retention systems
-- Vacuum seals
-- Pharmaceutical stoppers
-- Tire inner liners
-- Gas barrier components
-
-When compounded for low-VOC performance, butyl rubber can be a strong candidate for sealed-system applications.
-
----
+Butyl rubber is unique because it has extremely low gas permeability, excellent sealing capability, and strong resistance to air diffusion, making it especially well suited for airtight and pressure-retaining applications. This makes it ideal for applications where **gas containment is critical**. However, butyl can contain processing oils and additives that contribute to VOC emissions if not properly formulated. When compounded for low-VOC performance, butyl rubber can be a strong candidate for sealed-system applications. The advantages of this material include low gas transmission, good chemical resistance, and strong damping properties, making it suitable for applications requiring airtightness, durability, and vibration absorption.
 
 ## Natural Rubber (NR)
 
 **General emission profile:** Moderate to High
 
-Natural rubber can produce:
+Natural rubber can produce a noticeable odor, organic volatiles from natural proteins, and oxidative byproducts over time. It also requires stabilizers to prevent degradation, which may contribute to emissions.
 
-- Noticeable odor
-- Organic volatiles from natural proteins
-- Oxidative byproducts over time
+## Quick Comparison
 
-It also requires stabilizers to prevent degradation, which may contribute to emissions.
+| Rubber Type           | Relative VOC Level | Best Suited For                                                                           |
+| --------------------- | ------------------ | ----------------------------------------------------------------------------------------- |
+| Silicone (post-cured) | Low                | Medical devices, electronics, optical assemblies, automotive interiors, sealed enclosures |
+| FKM                   | Very Low           | Aerospace systems, vacuum sealing, high-temperature electronics, chemical processing      |
+| EPDM (low-VOC grade)  | Low–Moderate       | Automotive weatherstripping, HVAC seals, outdoor enclosures, water-contact systems        |
+| Butyl (IIR)           | Low–Moderate       | Gas barrier components, pharmaceutical stoppers, vacuum seals, air-retention systems      |
+| HNBR                  | Moderate           | Oil-resistant industrial systems with moderate emission sensitivity                       |
+| NBR                   | Moderate–High      | Industrial equipment, oil and fuel systems (non-sensitive environments)                   |
+| Natural Rubber        | Moderate–High      | Mechanical components and abrasion-heavy environments where emissions are not critical    |
 
-### Best for:
-
-- Mechanical applications where emissions are not critical
-- Abrasion-heavy environments
-
-Generally not recommended for sensitive, low-emission systems.
-
----
-
-# Quick Comparison Table
-
-| Rubber Type           | Typical VOC Level | Best For Low Emissions?       |
-| --------------------- | ----------------- | ----------------------------- |
-| Silicone (post-cured) | Low               | Yes                           |
-| FKM                   | Very Low          | Yes                           |
-| EPDM (low-VOC grade)  | Low–Moderate      | Yes                           |
-| Butyl (IIR)           | Low–Moderate      | Yes (with proper formulation) |
-| HNBR                  | Moderate          | Sometimes                     |
-| NBR                   | Moderate–High     | Not ideal                     |
-| Natural Rubber        | Moderate–High     | No                            |
-
----
-
-# Factors That Matter More Than Polymer Choice
-
-Even more important than the base elastomer:
-
-- Oil extension level
-- Cure chemistry
-- Post-cure process
-- Additive selection
-- Mold temperature control
-- Proper aging before shipment
-
-A poorly formulated silicone can emit more VOCs than a well-optimized EPDM.
-
----
-
-# When Should You Worry About Off-Gassing?
+## When Should You Worry About Off-Gassing?
 
 You should evaluate emissions if your rubber part will be used in:
 
-- Enclosed cabins
-- Medical environments
-- Optical or lens assemblies
-- Sensor housings
-- Vacuum systems
-- Battery enclosures
-- Automotive interiors
-- Semiconductor equipment
+- -Enclosed cabins
+- -Medical environments
+- -Optical or lens assemblies
+- -Sensor housings
+- -Vacuum systems
+- -Battery enclosures
+- -Automotive interiors
+- -Semiconductor equipment
 
-Early testing and specification prevents expensive redesigns later.
-
----
-
-# Need a Low-Emission Rubber Compound?
+## Need a Low-Emission Rubber Compound?
 
 Primo Rubber Co. specializes in injection molding custom rubber components. [**Contact Primo Rubber Co. today**](/#Contact) to discuss your project and find the ideal material, design, and tooling solution for your rubber parts.
